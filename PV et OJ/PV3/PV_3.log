@@ -1,12 +1,12 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.1.22)  30 JAN 2023 20:33
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.1.22)  5 FEB 2023 15:11
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"/Users/sammynoelparise/Library/CloudStorage/OneDrive-UniversitéLaval/Sixième session/Design/Design 3 Team 2/PV et OJ/PV0/PV_0.tex"
-(/Users/sammynoelparise/Library/CloudStorage/OneDrive-UniversitéLaval/Sixième session/Design/Design 3 Team 2/PV et OJ/PV0/PV_0.tex
+**"/Users/sammynoelparise/Library/CloudStorage/OneDrive-UniversitéLaval/Sixième session/Design/Design 3 Team 2/PV et OJ/PV3/PV_3.tex"
+(/Users/sammynoelparise/Library/CloudStorage/OneDrive-UniversitéLaval/Sixième session/Design/Design 3 Team 2/PV et OJ/PV3/PV_3.tex
 LaTeX2e <2021-11-15> patch level 1
-L3 programming layer <2022-02-24> (/Users/sammynoelparise/Library/CloudStorage/OneDrive-UniversitéLaval/Sixième session/Design/Design 3 Team 2/PV et OJ/PV0/ULojpv.cls
+L3 programming layer <2022-02-24> (/Users/sammynoelparise/Library/CloudStorage/OneDrive-UniversitéLaval/Sixième session/Design/Design 3 Team 2/PV et OJ/PV3/ULojpv.cls
 Document Class: ULojpv 2008/01/06 v1.1a Classe d'ordre du jour et de proces-verbal - Universite Laval
 (/usr/local/texlive/2022/texmf-dist/tex/latex/base/report.cls
 Document Class: report 2021/10/04 v1.4n Standard LaTeX document class
@@ -137,8 +137,8 @@ File: upsy.fd 2001/06/04 font definitions for U/psy.
 File: l3backend-pdftex.def 2022-02-07 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count270
 \l__pdf_internal_box=\box52
-) (/Users/sammynoelparise/Library/CloudStorage/OneDrive-UniversitéLaval/Sixième session/Design/Design 3 Team 2/PV et OJ/PV0/PV_0.aux)
-\openout1 = `PV_0.aux'.
+) (/Users/sammynoelparise/Library/CloudStorage/OneDrive-UniversitéLaval/Sixième session/Design/Design 3 Team 2/PV et OJ/PV3/PV_3.aux)
+\openout1 = `PV_3.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 31.
 LaTeX Font Info:    ... okay on input line 31.
@@ -156,19 +156,34 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 31.
 LaTeX Font Info:    ... okay on input line 31.
 LaTeX Info: Redefining \degres on input line 31.
 LaTeX Info: Redefining \up on input line 31.
- (/usr/local/texlive/2022/texmf-dist/tex/latex/lm/ot1lmr.fd) (/usr/local/texlive/2022/texmf-dist/tex/latex/lm/omllmm.fd) (/usr/local/texlive/2022/texmf-dist/tex/latex/lm/omslmsy.fd) (/usr/local/texlive/2022/texmf-dist/tex/latex/lm/omxlmex.fd) [1
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/lm/ot1lmr.fd) (/usr/local/texlive/2022/texmf-dist/tex/latex/lm/omllmm.fd) (/usr/local/texlive/2022/texmf-dist/tex/latex/lm/omslmsy.fd) (/usr/local/texlive/2022/texmf-dist/tex/latex/lm/omxlmex.fd)
+Underfull \hbox (badness 10000) in paragraph at lines 66--71
 
-{/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2] (/Users/sammynoelparise/Library/CloudStorage/OneDrive-UniversitéLaval/Sixième session/Design/Design 3 Team 2/PV et OJ/PV0/PV_0.aux) ) 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 72--74
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 75--77
+
+ []
+
+[1
+
+{/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2] (/Users/sammynoelparise/Library/CloudStorage/OneDrive-UniversitéLaval/Sixième session/Design/Design 3 Team 2/PV et OJ/PV3/PV_3.aux) ) 
 Here is how much of TeX's memory you used:
  2804 strings out of 478268
  48441 string characters out of 5846347
- 356299 words of memory out of 5000000
+ 355299 words of memory out of 5000000
  21010 multiletter control sequences out of 15000+600000
  498904 words of font info for 47 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  54i,9n,62p,365b,426s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}</usr/local/texlive/2022/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/lm/lmcsc10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/lm/lmr12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/lm/lmro12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/urw/zapfding/uzdr.pfb>
-Output written on "/Users/sammynoelparise/Library/CloudStorage/OneDrive-UniversitéLaval/Sixième session/Design/Design 3 Team 2/PV et OJ/PV0/PV_0.pdf" (2 pages, 121161 bytes).
+Output written on "/Users/sammynoelparise/Library/CloudStorage/OneDrive-UniversitéLaval/Sixième session/Design/Design 3 Team 2/PV et OJ/PV3/PV_3.pdf" (2 pages, 121614 bytes).
 PDF statistics:
  37 PDF objects out of 1000 (max. 8388607)
  22 compressed objects within 1 object stream
