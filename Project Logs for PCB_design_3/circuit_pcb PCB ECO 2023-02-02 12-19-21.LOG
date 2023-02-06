@@ -1,0 +1,88 @@
+Removed Pin From Net: NetName=VCC Pin=5.1k-1
+Removed Pin From Net: NetName=VCC Pin=Q1-1
+Change Component Designator: OldDesignator=voltage regulator NewDesignator=U?
+Added Component: Designator=U2(ONSC-SOIC-14-751A-03_H_V)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.onsemi.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.onsemi.cn/pub_link/Collateral/MC33171-D.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.onsemi.com/pub_link/Collateral/MC74AC74-D.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Rev. 12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GBW Typ (MHz)"; Value = "1.8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "On Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "14-Pin Small Outline Integrated Circuit, Body 8.65 x 3.9 mm, Pitch 1.27 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "SOIC-14-751A-03_H"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Rev. H"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packing"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "MC33174DR2G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SR Typ (V/uS)"; Value = "2.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VCC Max (V)"; Value = "44"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VCC Min (V)"; Value = "3"; VariantName = "[No Variations]"
+Added Component: Designator=U3(ONSC-SOIC-14-751A-03_H_V)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.onsemi.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.onsemi.cn/pub_link/Collateral/MC33171-D.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.onsemi.com/pub_link/Collateral/MC74AC74-D.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Rev. 12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GBW Typ (MHz)"; Value = "1.8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "On Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "14-Pin Small Outline Integrated Circuit, Body 8.65 x 3.9 mm, Pitch 1.27 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "SOIC-14-751A-03_H"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Rev. H"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packing"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "MC33174DR2G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SR Typ (V/uS)"; Value = "2.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VCC Max (V)"; Value = "44"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VCC Min (V)"; Value = "3"; VariantName = "[No Variations]"
+Added Component: Designator=U4(ONSC-SOIC-14-751A-03_H_V)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.onsemi.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.onsemi.cn/pub_link/Collateral/MC33171-D.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.onsemi.com/pub_link/Collateral/MC74AC74-D.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Rev. 12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GBW Typ (MHz)"; Value = "1.8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "On Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "14-Pin Small Outline Integrated Circuit, Body 8.65 x 3.9 mm, Pitch 1.27 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "SOIC-14-751A-03_H"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Rev. H"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packing"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "MC33174DR2G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SR Typ (V/uS)"; Value = "2.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VCC Max (V)"; Value = "44"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VCC Min (V)"; Value = "3"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetQ1_2 Pin=U2-1
+Added Pin To Net: NetName=Net2k_2 Pin=U2-3
+Added Pin To Net: NetName=VCC Pin=U2-4
+Added Pin To Net: NetName=GND Pin=U2-11
+Added Pin To Net: NetName=Net22k(2)_1 Pin=U3-1
+Added Pin To Net: NetName=Net22k(2)_1 Pin=U3-2
+Added Pin To Net: NetName=NetR2_1 Pin=U3-3
+Added Pin To Net: NetName=VCC Pin=U3-4
+Added Pin To Net: NetName=GND Pin=U3-11
+Added Pin To Net: NetName=Net82k (1)_2 Pin=U4-1
+Added Pin To Net: NetName=Net22k(1)_2 Pin=U4-2
+Added Pin To Net: NetName=Net22k(2)_2 Pin=U4-3
+Added Pin To Net: NetName=VCC Pin=U4-4
+Added Pin To Net: NetName=GND Pin=U4-11
+Add Pin To Net: Unknown Pin: Pin V1-1
+Add Pin To Net: Unknown Pin: Pin V1-2
+Added Pin To Net: NetName=Net5.1k_1 Pin=5.1k-1
+Added Pin To Net: NetName=Net5.1k_1 Pin=Q1-1
+Added Pin To Net: NetName=Net5.1k_1 Pin=U2-2
+Added Net: Name=Net5.1k_1
+Added Member To Class: ClassName=circuit Member=Component U2 MC33174DR2G
+Added Member To Class: ClassName=circuit Member=Component U3 MC33174DR2G
+Added Member To Class: ClassName=circuit Member=Component U4 MC33174DR2G
+Add Class Member: Failed to add class member : Component V1 DC 15
+Added Room: Name=circuit

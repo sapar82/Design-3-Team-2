@@ -1,0 +1,119 @@
+Removed Pin From Net: NetName=NetQ1_2 Pin=U1-1
+Removed Pin From Net: NetName=Net5.1k_1 Pin=U1-2
+Removed Pin From Net: NetName=Net2k_2 Pin=U1-3
+Removed Pin From Net: NetName=Net800_2 Pin=u2-2
+Removed Pin From Net: NetName=Net1k_2 Pin=u2-3
+Removed Pin From Net: NetName=GND Pin=u2-4
+Removed Pin From Net: NetName=VCC Pin=u2-8
+Change Component Footprint: Designator=u2 Old Footprint=FP-751-07-IPC_C New Footprint=FP-DGK0008A-IPC_B
+Change Component Footprint: Designator=U1 Old Footprint=ONSC-SOIC-14-751A-03_H_V New Footprint=M14A_M
+Change Component Comment : Designator=u2 Old Comment=LM358DR2G New Comment=LM2904DGKR
+Change Component Comment : Designator=U1 Old Comment=MC33174DR2G New Comment=LMH6683MAX
+Change Managed Component Library Link : Designator=U1 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=94D551EC-6D7A-44BE-8785-A6C47998504D New ItemGUID=AEC7F919-59A1-4A0D-B4EB-8604DFBE5BE4 Old RevisionGUID=9E54BD4C-0BCD-48F5-AFDD-CF8C9B951BBE New RevisionGUID=2CEDC2B5-6258-43D4-BE47-EC8BE7685DE1
+Change Managed Component Library Link : Designator=u2 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=C472FDA0-12B5-443D-B096-AC32E226F099 New ItemGUID=CAD47EA3-D011-4B74-BDA2-BA426D4B09A6 Old RevisionGUID=7A0ED6E7-BB9A-4725-8B3D-1F66C8877AC1 New RevisionGUID=8C5019A3-FBFD-440C-9488-8CA00F9A9E04
+Change component parameters: Designator = "U1" ("U1"); Footprint = "ONSC-SOIC-14-751A-03_H_V"; UniqueID = "\FDKFTEDB" ("\FDKFTEDB")
+Change component parameters (AddParameter): Name = "Code_IPC"; Value = "SOIC127P600-14"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Code_JEDEC"; Value = "MS-012AB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "LMH6683 Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.national.com/ds/LM/LMH6683.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "LMH6683 Web Page"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.national.com/pf/LM/LMH6683.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = "M14A Package Page"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.national.com/packaging/folders/m14a.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "CompType"; Value = "Amplifiers"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DatasheetVersion"; Value = "Nov-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "National Semiconductor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Molded Package S.O., .150in Wide, 14 Lead"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "M14A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageTopMarking"; Value = "NSUZXYTTE#*LMH66*83MA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageVersion"; Value = "revJ, Jan-1996"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PinCount"; Value = "14"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PowerWise"; Value = "N"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RevisionNote"; Value = "Component URLs added"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "N"; VariantName = "[No Variations]"
+Change component parameters: Designator = "u2" ("U2"); Footprint = "FP-751-07-IPC_C"; UniqueID = "\DULLHIBR" ("\DULLHIBR")
+Change component parameters (AddParameter): Name = "Bandwidth"; Value = "700kHz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "MSOP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Common Mode Rejection Ratio"; Value = "50dB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dual Supply Voltage"; Value = "9V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Gain Bandwidth Product"; Value = "700kHz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.97mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Input Bias Current"; Value = "250nA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Input Offset Voltage (Vos)"; Value = "7mV"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "3mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Dual Supply Voltage"; Value = "13V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Supply Voltage"; Value = "26V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Dual Supply Voltage"; Value = "1.5V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Supply Voltage"; Value = "3V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Nominal Supply Current"; Value = "1.2mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Amplifiers"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Channels"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Circuits"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Elements"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Pins"; Value = "8"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Supply Current"; Value = "1mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Supply Voltage"; Value = "13V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Output Current"; Value = "30mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Output Current per Channel"; Value = "30mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Quantity"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power Supply Rejection Ratio (PSRR)"; Value = "50dB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Slew Rate"; Value = "0.3V/µs"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Unity Gain Bandwidth Product"; Value = "700kHz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Gain"; Value = "100dB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Width"; Value = "3mm"; VariantName = "[No Variations]"
+Added Component: Designator=U2(FP-DGK0008A-IPC_B)
+Add component (AddParameter): Name = "Bandwidth"; Value = "700kHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "MSOP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Common Mode Rejection Ratio"; Value = "50dB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dual Supply Voltage"; Value = "9V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gain Bandwidth Product"; Value = "700kHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.97mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Input Bias Current"; Value = "250nA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Input Offset Voltage (Vos)"; Value = "7mV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "3mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Dual Supply Voltage"; Value = "13V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Supply Voltage"; Value = "26V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Dual Supply Voltage"; Value = "1.5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Supply Voltage"; Value = "3V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Nominal Supply Current"; Value = "1.2mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Amplifiers"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Channels"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Circuits"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Elements"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Supply Current"; Value = "1mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Supply Voltage"; Value = "13V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Current"; Value = "30mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Current per Channel"; Value = "30mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Supply Rejection Ratio (PSRR)"; Value = "50dB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Slew Rate"; Value = "0.3V/µs"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Unity Gain Bandwidth Product"; Value = "700kHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Gain"; Value = "100dB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "3mm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Net1k_2 Pin=u2-5
+Added Pin To Net: NetName=Net5.1k_1 Pin=U2-5
+Added Pin To Net: NetName=Net2k_2 Pin=U2-6
+Added Pin To Net: NetName=Net800_2 Pin=u2-6
+Added Pin To Net: NetName=NetQ1_2 Pin=U2-7
+Added Pin To Net: NetName=NetU2_7 Pin=u2-7
+Added Net: Name=NetU2_7
+Added Member To Class: ClassName=circuit Member=Component U2 LM2904DGKR

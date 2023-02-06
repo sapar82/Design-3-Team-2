@@ -1,0 +1,170 @@
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=Net3_1 Pin=3-1
+Removed Pin From Net: NetName=Net9_1 Pin=9-1
+Removed Pin From Net: NetName=Net10_2 Pin=U6-2
+Removed Pin From Net: NetName=Net22_2 Pin=U6-3
+Removed Pin From Net: NetName=Net23_2 Pin=U6-4
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=Net42_2 Pin=U6-8
+Removed Pin From Net: NetName=Net43_2 Pin=U6-9
+Removed Pin From Net: NetName=Net1_2 Pin=U6-16
+Removed Pin From Net: NetName=Net8_2 Pin=U6-18
+Removed Pin From Net: NetName=Net20_2 Pin=U6-19
+Removed Pin From Net: NetName=Net3_2 Pin=U6-20
+Removed Pin From Net: NetName=Net21_2 Pin=U6-22
+Removed Pin From Net: NetName=Net39_2 Pin=U6-23
+Removed Pin From Net: NetName=Net10_1 Pin=U10-2
+Removed Pin From Net: NetName=Net22_1 Pin=U10-3
+Removed Pin From Net: NetName=Net23_1 Pin=U10-4
+Removed Pin From Net: NetName=Net3_1 Pin=U10-5
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=Net42_1 Pin=U10-8
+Removed Pin From Net: NetName=Net43_1 Pin=U10-9
+Removed Pin From Net: NetName=Net8_1 Pin=U10-18
+Removed Pin From Net: NetName=Net20_1 Pin=U10-19
+Removed Pin From Net: NetName=Net9_1 Pin=U10-20
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=Net21_1 Pin=U10-22
+Removed Pin From Net: NetName=Net39_1 Pin=U10-23
+Added Pin To Net: NetName=Net1_1 Pin=40-1
+Add Pin To Net: Unknown Pin: Pin 1k-1
+Add Pin To Net: Unknown Pin: Pin 1k-2
+Added Pin To Net: NetName=Net2_1 Pin=41-1
+Added Pin To Net: NetName=Net2_2 Pin=41-2
+Add Pin To Net: Unknown Pin: Pin 2k-1
+Add Pin To Net: Unknown Pin: Pin 2k-2
+Added Pin To Net: NetName=Net3_1 Pin=9-1
+Add Pin To Net: Unknown Pin: Pin 5.1k-1
+Add Pin To Net: Unknown Pin: Pin 5.1k-2
+Added Pin To Net: NetName=Net9_1 Pin=1-1
+Add Pin To Net: Unknown Pin: Pin 10k-1
+Add Pin To Net: Unknown Pin: Pin 10k-2
+Add Pin To Net: Unknown Pin: Pin 22k(1)-1
+Add Pin To Net: Unknown Pin: Pin 22k(1)-2
+Add Pin To Net: Unknown Pin: Pin 22k(2)-1
+Add Pin To Net: Unknown Pin: Pin 22k(2)-2
+Add Pin To Net: Unknown Pin: Pin 82k (1)-1
+Add Pin To Net: Unknown Pin: Pin 82k (1)-2
+Add Pin To Net: Unknown Pin: Pin 82k(2)-1
+Add Pin To Net: Unknown Pin: Pin 82k(2)-2
+Add Pin To Net: Unknown Pin: Pin 333-1
+Add Pin To Net: Unknown Pin: Pin 333-2
+Add Pin To Net: Unknown Pin: Pin 800-1
+Add Pin To Net: Unknown Pin: Pin 800-2
+Add Pin To Net: Unknown Pin: Pin C1-1
+Add Pin To Net: Unknown Pin: Pin C1-2
+Add Pin To Net: Unknown Pin: Pin C2-1
+Add Pin To Net: Unknown Pin: Pin C2-2
+Add Pin To Net: Unknown Pin: Pin Q1-1
+Add Pin To Net: Unknown Pin: Pin Q1-2
+Add Pin To Net: Unknown Pin: Pin Q1-3
+Add Pin To Net: Unknown Pin: Pin R1-1
+Add Pin To Net: Unknown Pin: Pin R1-2
+Add Pin To Net: Unknown Pin: Pin R2-1
+Add Pin To Net: Unknown Pin: Pin R2-2
+Add Pin To Net: Unknown Pin: Pin R3-1
+Add Pin To Net: Unknown Pin: Pin R3-2
+Add Pin To Net: Unknown Pin: Pin Res800-1
+Add Pin To Net: Unknown Pin: Pin Res800-2
+Add Pin To Net: Unknown Pin: Pin res800G-1
+Add Pin To Net: Unknown Pin: Pin res800G-2
+Add Pin To Net: Unknown Pin: Pin U1-4
+Add Pin To Net: Unknown Pin: Pin U1-5
+Add Pin To Net: Unknown Pin: Pin U1-8
+Add Pin To Net: Unknown Pin: Pin U1-9
+Add Pin To Net: Unknown Pin: Pin U1-10
+Add Pin To Net: Unknown Pin: Pin U1-11
+Add Pin To Net: Unknown Pin: Pin U1-12
+Add Pin To Net: Unknown Pin: Pin U1-13
+Add Pin To Net: Unknown Pin: Pin U1-14
+Add Pin To Net: Unknown Pin: Pin U2-1
+Add Pin To Net: Unknown Pin: Pin U2-2
+Add Pin To Net: Unknown Pin: Pin U2-3
+Add Pin To Net: Unknown Pin: Pin U2-5
+Add Pin To Net: Unknown Pin: Pin U2-6
+Add Pin To Net: Unknown Pin: Pin U2-7
+Added Pin To Net: NetName=Net10_1 Pin=U6-2
+Added Pin To Net: NetName=Net22_1 Pin=U6-3
+Added Pin To Net: NetName=Net23_1 Pin=U6-4
+Added Pin To Net: NetName=Net42_1 Pin=U6-8
+Added Pin To Net: NetName=Net43_1 Pin=U6-9
+Added Pin To Net: NetName=Net1_1 Pin=U6-16
+Added Pin To Net: NetName=Net2_1 Pin=U6-17
+Added Pin To Net: NetName=Net8_1 Pin=U6-18
+Added Pin To Net: NetName=Net20_1 Pin=U6-19
+Added Pin To Net: NetName=Net3_1 Pin=U6-20
+Added Pin To Net: NetName=Net9_1 Pin=U6-21
+Added Pin To Net: NetName=Net21_1 Pin=U6-22
+Added Pin To Net: NetName=Net39_1 Pin=U6-23
+Added Pin To Net: NetName=Net10_2 Pin=U10-2
+Added Pin To Net: NetName=Net22_2 Pin=U10-3
+Added Pin To Net: NetName=Net23_2 Pin=U10-4
+Added Pin To Net: NetName=Net42_2 Pin=U10-8
+Added Pin To Net: NetName=Net43_2 Pin=U10-9
+Added Pin To Net: NetName=Net1_2 Pin=U10-16
+Added Pin To Net: NetName=Net2_2 Pin=U10-17
+Added Pin To Net: NetName=Net8_2 Pin=U10-18
+Added Pin To Net: NetName=Net20_2 Pin=U10-19
+Added Pin To Net: NetName=Net3_2 Pin=U10-20
+Added Pin To Net: NetName=Net21_2 Pin=U10-22
+Added Pin To Net: NetName=Net39_2 Pin=U10-23
+Add Pin To Net: Unknown Pin: Pin voltage regulator-1
+Add Pin To Net: Unknown Pin: Pin voltage regulator-3
+Add Pin To Net: Unknown Pin: Pin voltage regulator-4
+Add Pin To Net: Unknown Pin: Pin Zener-1
+Add Pin To Net: Unknown Pin: Pin Zener-2
+Added Pin To Net: NetName=Net9_2 Pin=1-2
+Added Pin To Net: NetName=Net9_2 Pin=U10-21
+Added Net: Name=Net9_2
+Added Pin To Net: NetName=Net24_1 Pin=3-1
+Added Pin To Net: NetName=Net24_1 Pin=U6-5
+Added Net: Name=Net24_1
+Added Pin To Net: NetName=Net24_2 Pin=3-2
+Added Pin To Net: NetName=Net24_2 Pin=U10-5
+Added Net: Name=Net24_2
+Added Pin To Net: NetName=Net40_1 Pin=2-1
+Added Pin To Net: NetName=Net40_1 Pin=U6-6
+Added Net: Name=Net40_1
+Added Pin To Net: NetName=Net40_2 Pin=2-2
+Added Pin To Net: NetName=Net40_2 Pin=U10-6
+Added Net: Name=Net40_2
+Added Pin To Net: NetName=Net41_1 Pin=8-1
+Added Pin To Net: NetName=Net41_1 Pin=U6-7
+Added Net: Name=Net41_1
+Added Pin To Net: NetName=Net41_2 Pin=8-2
+Added Pin To Net: NetName=Net41_2 Pin=U10-7
+Added Net: Name=Net41_2
+Add Class Member: Failed to add class member : Component 1k CRCW12101K00FKEAHP
+Add Class Member: Failed to add class member : Component 2k CRCW12062K00FKEA
+Add Class Member: Failed to add class member : Component 5.1k CRCW12065K10FKEA
+Added Member To Class: ClassName=mounting_circuit Member=Component 9 1
+Add Class Member: Failed to add class member : Component 10k CRCW120610K0FKEA
+Added Member To Class: ClassName=mounting_circuit Member=Component 20 Comment
+Add Class Member: Failed to add class member : Component 22k(1) CRCW120622K0FKEA
+Add Class Member: Failed to add class member : Component 22k(2) CRCW120622K0FKEA
+Added Member To Class: ClassName=mounting_circuit Member=Component 22 Comment
+Added Member To Class: ClassName=mounting_circuit Member=Component 23 Comment
+Added Member To Class: ClassName=mounting_circuit Member=Component 24 0
+Added Member To Class: ClassName=mounting_circuit Member=Component 40 0
+Added Member To Class: ClassName=mounting_circuit Member=Component 41 Comment
+Added Member To Class: ClassName=mounting_circuit Member=Component 42 Comment
+Added Member To Class: ClassName=mounting_circuit Member=Component 43 Comment
+Add Class Member: Failed to add class member : Component 82k (1) CRCW120682K0FKEA
+Add Class Member: Failed to add class member : Component 82k(2) CRCW120682K0FKEA
+Add Class Member: Failed to add class member : Component 333 CRCW0603330RFKEAHP
+Add Class Member: Failed to add class member : Component 800 MCA12060D8000BP500
+Add Class Member: Failed to add class member : Component C1 TAJA106K016RNJ
+Add Class Member: Failed to add class member : Component C2 GRM188R61E105KA12D
+Add Class Member: Failed to add class member : Component Q1 2N7000
+Add Class Member: Failed to add class member : Component R1 CRCW120633K0FKEA
+Add Class Member: Failed to add class member : Component R2 CRCW120633K0FKEA
+Add Class Member: Failed to add class member : Component R3 CRCW120615K0FKEA
+Add Class Member: Failed to add class member : Component res800G MCA12060D8000BP500
+Add Class Member: Failed to add class member : Component Res800 MCA12060D8000BP500
+Add Class Member: Failed to add class member : Component U1 LMH6683MA/NOPB
+Add Class Member: Failed to add class member : Component U2 LM2904DGKR
+Add Class Member: Failed to add class member : Component voltage regulator L7812CD2T-TR
+Add Class Member: Failed to add class member : Component Zener MM3Z5V6ST1G
+Added Room: Name=mounting_circuit

@@ -1,0 +1,18 @@
+Change Component Designator: OldDesignator=1 NewDesignator=40
+Change Component Designator: OldDesignator=2 NewDesignator=41
+Change Component Designator: OldDesignator=3 NewDesignator=9
+Change Component Designator: OldDesignator=8 NewDesignator=20
+Change Component Designator: OldDesignator=9 NewDesignator=1
+Change Component Designator: OldDesignator=10 NewDesignator=23
+Change Component Designator: OldDesignator=20 NewDesignator=10
+Change Component Designator: OldDesignator=21 NewDesignator=42
+Change Component Designator: OldDesignator=22 NewDesignator=43
+Change Component Designator: OldDesignator=23 NewDesignator=24
+Change Component Designator: OldDesignator=24 NewDesignator=3
+Change Component Designator: OldDesignator=39 NewDesignator=22
+Change Component Designator: OldDesignator=40 NewDesignator=2
+Change Component Designator: OldDesignator=41 NewDesignator=8
+Change Component Designator: OldDesignator=42 NewDesignator=39
+Change Component Designator: OldDesignator=43 NewDesignator=21
+Change Pin Designator/Name:  Old Designator=20-1 Old Name=1 New Designator =1 New Name=1
+Change Pin Designator/Name:  Old Designator=20-2 Old Name=2 New Designator =2 New Name=2
