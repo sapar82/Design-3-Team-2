@@ -1,0 +1,62 @@
+Change Component Designator: OldDesignator=1 NewDesignator=9
+Change Component Designator: OldDesignator=2 NewDesignator=40
+Change Component Designator: OldDesignator=3 NewDesignator=24
+Change Component Designator: OldDesignator=8 NewDesignator=41
+Change Component Designator: OldDesignator=9 NewDesignator=3
+Change Component Designator: OldDesignator=10 NewDesignator=20
+Change Component Designator: OldDesignator=20 NewDesignator=8
+Change Component Designator: OldDesignator=21 NewDesignator=43
+Change Component Designator: OldDesignator=22 NewDesignator=39
+Change Component Designator: OldDesignator=23 NewDesignator=10
+Change Component Designator: OldDesignator=24 NewDesignator=23
+Change Component Designator: OldDesignator=39 NewDesignator=42
+Change Component Designator: OldDesignator=40 NewDesignator=1
+Change Component Designator: OldDesignator=41 NewDesignator=2
+Change Component Designator: OldDesignator=42 NewDesignator=21
+Change Component Designator: OldDesignator=43 NewDesignator=22
+Change Net Name : Old Net Name=Net9_2 New Net Name=Net3_2
+Change Net Name : Old Net Name=Net10_1 New Net Name=Net20_1
+Change Net Name : Old Net Name=Net10_2 New Net Name=Net20_2
+Change Net Name : Old Net Name=Net20_1 New Net Name=Net8_1
+Change Net Name : Old Net Name=Net20_2 New Net Name=Net8_2
+Change Net Name : Old Net Name=Net21_1 New Net Name=Net43_1
+Change Net Name : Old Net Name=Net21_2 New Net Name=Net43_2
+Change Net Name : Old Net Name=Net22_1 New Net Name=Net39_1
+Change Net Name : Old Net Name=Net22_2 New Net Name=Net39_2
+Change Net Name : Old Net Name=Net23_1 New Net Name=Net10_1
+Change Net Name : Old Net Name=Net23_2 New Net Name=Net10_2
+Change Net Name : Old Net Name=Net24_1 New Net Name=Net23_1
+Change Net Name : Old Net Name=Net24_2 New Net Name=Net23_2
+Change Net Name : Old Net Name=Net39_1 New Net Name=Net42_1
+Change Net Name : Old Net Name=Net39_2 New Net Name=Net42_2
+Change Net Name : Old Net Name=Net40_1 New Net Name=Net1_1
+Change Net Name : Old Net Name=Net40_2 New Net Name=Net1_2
+Change Net Name : Old Net Name=Net41_1 New Net Name=Net2_1
+Change Net Name : Old Net Name=Net41_2 New Net Name=Net2_2
+Change Net Name : Old Net Name=Net42_1 New Net Name=Net21_1
+Change Net Name : Old Net Name=Net42_2 New Net Name=Net21_2
+Change Net Name : Old Net Name=Net43_1 New Net Name=Net22_1
+Change Net Name : Old Net Name=Net43_2 New Net Name=Net22_2
+Add Class Member: Failed to add class member : Component 1k CRCW12101K00FKEAHP
+Add Class Member: Failed to add class member : Component 2k CRCW12062K00FKEA
+Add Class Member: Failed to add class member : Component 5.1k CRCW12065K10FKEA
+Add Class Member: Failed to add class member : Component 10k CRCW120610K0FKEA
+Add Class Member: Failed to add class member : Component 22k(1) CRCW120622K0FKEA
+Add Class Member: Failed to add class member : Component 22k(2) CRCW120622K0FKEA
+Add Class Member: Failed to add class member : Component 82k (1) CRCW120682K0FKEA
+Add Class Member: Failed to add class member : Component 82k(2) CRCW120682K0FKEA
+Add Class Member: Failed to add class member : Component 333 CRCW0603330RFKEAHP
+Add Class Member: Failed to add class member : Component 800 MCA12060D8000BP500
+Add Class Member: Failed to add class member : Component C1 TAJA106K016RNJ
+Add Class Member: Failed to add class member : Component C2 GRM188R61E105KA12D
+Add Class Member: Failed to add class member : Component Q1 2N7000
+Add Class Member: Failed to add class member : Component R1 CRCW120633K0FKEA
+Add Class Member: Failed to add class member : Component R2 CRCW120633K0FKEA
+Add Class Member: Failed to add class member : Component R3 CRCW120615K0FKEA
+Add Class Member: Failed to add class member : Component res800G MCA12060D8000BP500
+Add Class Member: Failed to add class member : Component Res800 MCA12060D8000BP500
+Add Class Member: Failed to add class member : Component U1 LMH6683MA/NOPB
+Add Class Member: Failed to add class member : Component U2 LM2904DGKR
+Add Class Member: Failed to add class member : Component voltage regulator L7812CD2T-TR
+Add Class Member: Failed to add class member : Component Zener MM3Z5V6ST1G
+Added Room: Name=mounting_circuit(2)
