@@ -1,0 +1,32 @@
+Altium Designer Pick and Place Locations
+C:\Users\Public\Documents\Altium\PCB_design_3_first_attempt\Project Outputs for Free Documents\Pick Place\Pick Place for circuit_pcb.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       02-02-23
+Time:       15:55
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+Designator          Comment            Layer    Footprint              Center-X(mil) Center-Y(mil) Rotation Description                                                                        
+u2                  LM2904DGKR         TopLayer FP-DGK0008A-IPC_B      1771.653      826.772       0        "IC OPAMP GP 2 CIRCUIT 8VSSOP"                                                     
+"voltage regulator" L7812CD2T-TR       TopLayer TO-263_M               433.071       536.417       90       "Positive Voltage Regulator, 3-Pin D2PAK, Tape and Reel"                           
+U1                  LMH6683MA          TopLayer M14A_N                 1141.732      354.331       0        "190MHz Single Supply, Dual and Triple Operational Amplifiers, 14-pin Narrow SOIC" 
+R3                  CRCW120615K0FKEA   TopLayer RESC3216X60X45LL10T20  1476.378      570.866       0        ""                                                                                 
+R2                  CRCW120633K0FKEA   TopLayer FP-CRCW1206-e3-IPC_B   1456.693      787.402       90       "RES Thick Film, 33kO, 1%, 0.25W, 100ppm/°C, 1206"                                 
+R1                  CRCW120633K0FKEA   TopLayer FP-CRCW1206-e3-IPC_B   1259.842      764.806       90       "RES Thick Film, 33kO, 1%, 0.25W, 100ppm/°C, 1206"                                 
+Q1                  2N7000-G           TopLayer ONSC-TO-92-3-29-11     1023.622      708.661       0        "Small Signal MOSFET, 500 mA, 60 V, N-Channel, 3-Pin TO-92, Bulk Box"              
+C2                  GRM188R61E105KA12D TopLayer CAPC1608X90X35LL10T15  118.110       590.551       90       ""                                                                                 
+C1                  TAJA106K016RNJ     TopLayer FP-TAJA-MFG            2204.724      748.032       90       "10uF 16V  ±10% 3O 1206  SMD Tantalum Capacitor"                                   
+800                 MCA12060D8000BP500 TopLayer FP-MCA1206-IPC_C       2027.559      688.976       0        "Res MC Precision Thin Film 1206 800O 0.1% 0.25W ±25ppm/°C Molded Paper T/R"       
+333                 CRCW0603330RFKEAHP TopLayer FP-CRCW0603-HPe3-IPC_C 2367.204      629.921       0        "RES Thick Film, 330O, 1%, 0.33W, 100ppm/°C, 0603"                                 
+82k                 CRCW120682K0FKEA   TopLayer FP-CRCW1206-e3-IPC_B   2128.894      196.850       0        "RES Thick Film, 82kO, 1%, 0.25W, 100ppm/°C, 1206"                                 
+82k                 CRCW120682K0FKEA   TopLayer FP-CRCW1206-e3-IPC_B   2086.614      433.071       0        "RES Thick Film, 82kO, 1%, 0.25W, 100ppm/°C, 1206"                                 
+22k                 CRCW120622K0FKEA   TopLayer FP-CRCW1206-e3-IPC_A   1771.653      157.480       0        "RES Thick Film, 22kO, 1%, 0.25W, 100ppm/°C, 1206"                                 
+22k                 CRCW120622K0FKEA   TopLayer FP-CRCW1206-e3-IPC_A   1751.968      433.071       0        "RES Thick Film, 22kO, 1%, 0.25W, 100ppm/°C, 1206"                                 
+10k                 CRCW120610K0FKEA   TopLayer FP-CRCW1206-e3-IPC_C   787.402       511.811       0        "RES Thick Film, 10kO, 1%, 0.25W, 100ppm/°C, 1206"                                 
+5.1k                CRCW12065K10FKEA   TopLayer FP-CRCW1206-e3-IPC_C   787.402       748.032       90       "RES Thick Film, 5.1kO, 1%, 0.25W, 100ppm/°C, 1206"                                
+2k                  CRCW12062K00FKEA   TopLayer FP-CRCW1206-e3-IPC_A   393.701       118.110       0        "RES Thick Film, 2kO, 1%, 0.25W, 100ppm/°C, 1206"                                  
+1k                  CRCW12101K00FKEAHP TopLayer RESC3225X60X45NL20T20  2342.520      273.622       90       ""                                                                                 
