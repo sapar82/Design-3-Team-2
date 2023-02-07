@@ -1,0 +1,54 @@
+\NeedsTeXFormat{LaTeX2e}
+\ProvidesPackage{mypackages}
+\usepackage[T1]{fontenc}
+
+% maths
+\usepackage{icomma}
+\usepackage{array}
+\usepackage{amsmath,mathtools}
+\usepackage{amssymb,amsfonts}
+\usepackage{esint}
+\usepackage{siunitx}
+\usepackage[thinc]{esdiff}
+
+
+% figures
+\usepackage{float}
+\usepackage{graphicx}
+\usepackage{wrapfig}
+\usepackage{subfigure}
+\usepackage{caption}
+\usepackage{tikz}
+\usepackage[siunitx]{circuitikz}
+\usepackage[RPvoltages]{circuitikz}
+
+% tables
+\usepackage{multirow}
+\usepackage{tabulary}
+\usepackage{supertabular}
+
+\usetikzlibrary{arrows,shapes,positioning,shadows,trees}
+\tikzset{
+  basic/.style  = {draw, text width=2cm, drop shadow, font=\sffamily, rectangle},
+  root/.style   = {basic, rounded corners=2pt, thin, align=center, fill=white, text width=8em},
+  level 2/.style = {basic, rounded corners=6pt, thin, align=center, fill=green!40,
+                   text width=10em, sibling distance=55mm},
+  level 3/.style = {basic, rounded corners=6pt, thin, align=center, fill=cyan!40,
+                   text width=10em},
+  level 4/.style = {basic, thin, align=left, fill=yellow!40, text width=10em}
+}
+
+\usepackage{matlab-prettifier}
+\usepackage{xcolor}
+
+\lstdefinestyle{python-idle-code}{%
+  language=Python,                   % the language
+  basicstyle=\normalsize\ttfamily,   % size of the fonts for the code
+  % Color settings to match IDLE style
+  keywordstyle=\color{orange},       % core keywords
+  keywordstyle={[2]\color{purple2}}, % built-ins
+  stringstyle=\color{green2},
+  commentstyle=\color{red},
+  upquote=true,                      % requires textcomp
+}
+\lstset{style=python-idle-code}
