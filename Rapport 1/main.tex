@@ -1,0 +1,75 @@
+\documentclass[12pt,ULlof,ULlot]{ULrapport}
+
+\usepackage[utf8]{inputenc}
+\usepackage{mypackages}
+
+\TitreProjet{Puissancemètre laser}
+\TitreRapport{Rapport Design préliminaire}
+\Destinataire{Paul Fortier, Hoang Le-Huy et Simon Rainville}
+\NumeroEquipe{4}
+\NomEquipe{LaserTex}
+\TableauMembres{
+    536\,950\,253 & Arno Autier & \\\hline
+    111\,252\,831 & Andrea Laurenne Tchouambou & \\\hline
+    111\,265\,975 & Frédéric Marcotte & \\\hline
+    111\,049\,482 & William Michaud Lévesque & \\\hline
+    536\,786\,501 & Sammy Noël Parisé & \\\hline
+    536\,950\,308 & Alexandre Silveira & \\\hline
+}
+\DateRemise{29 avril 2022}
+
+\HistoriqueVersions{
+         & 12 janvier 2022
+         & création du document
+   \\\hline
+   1.0   & 21 janvier 2022
+         & description, besoins et objectifs, cahier des charges, conceptualisation (diagramme fonctionnel)
+   \\\hline
+   2.0   & 25 février 2022
+         & conceptualisation, modélisation, identification
+   \\\hline
+   3.0   & 8 avril 2022
+         & simulateur, résultats, validation
+   \\\hline
+   4.0   & 29 avril 2022
+         & prototype, tests de performance, optimisation, conclusion
+   \\\hline
+}
+
+\begin{document}
+%**************************************************************************************
+%   Chapitres
+%
+\input{tex/01_description}
+\input{tex/02_besoins}
+\input{tex/03_objectifs}
+\input{tex/04_cahier_charges}
+\input{tex/05_conceptualisation}
+\input{tex/06_modelisation}
+\input{tex/07_identification}
+\input{tex/08_simulateur}
+\input{tex/09_resultats}
+\input{tex/10_validation}
+\input{tex/11_cao}
+\input{tex/12_prototype}
+\input{tex/13_test_performance}
+\input{tex/14_optimisation}
+\input{tex/15_conclusion}
+%**************************************************************************************
+%   Bibliographie
+%
+\bibliographystyle{IEEEtran}
+\bibliography{tex/bibliographie}
+\addcontentsline{toc}{chapter}{\bibname}
+%**************************************************************************************
+%   Annexes
+%
+\appendix
+\input{tex/A_sigles_acronymes}
+\input{tex/B_code_barcode}
+\input{tex/C_code_reflexion_intersection}
+\input{tex/D_code_convolution}
+\input{tex/E_code_arduino}
+\input{tex/F_code_python}
+%**************************************************************************************
+\end{document}
