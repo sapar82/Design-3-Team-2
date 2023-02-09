@@ -1,10 +1,12 @@
-Output: Test Point Report
-Type  : Test Points
+Output: NC Drill Files
+Type  : NC Drill
 From  : Project [PCB_design_3.PrjPcb]
-   Generated File[Fabrication Testpoint Report for circuit_pcb.csv]
+   Generated File[mounting_pcb.TXT]
+   Generated File[mounting_pcb.LDP]
+   Generated File[mounting_pcb.DRR]
 
 
-Files Generated   : 1
+Files Generated   : 3
 Documents Printed : 0
 
-Finished Output Generation At 19:14:18 On 2023-02-08
+Finished Output Generation At 21:53:37 On 2023-02-08
