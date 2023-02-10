@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: mounting_pcb.PcbDoc   2023-02-08  21:53:37
+NCDrill File Report For: mounting_pcb.PcbDoc   2023-02-10  11:03:02
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -7,11 +7,10 @@ ASCII RoundHoles File : mounting_pcb.TXT
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      16mil (0.4mm)                                             Round             170       PTH        33.67inch (855.22mm)
-T2      28mil (0.711mm)                                           Round             2         PTH        0.34inch (8.65mm)
-T3      30mil (0.762mm)                                           Round             14        PTH        8.26inch (209.89mm)
-T4      41mil (1.04mm)                                            Round             128       PTH        23.73inch (602.81mm)
+T1      16mil (0.4mm)                                             Round             197       PTH        34.94inch (887.47mm)
+T2      30mil (0.762mm)                                           Round             14        PTH        8.26inch (209.90mm)
+T3      41mil (1.04mm)                                            Round             128       PTH        23.73inch (602.81mm)
 ----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              314
+Totals                                                                              339
 
-Total Processing Time (hh:mm:ss) : 00:00:00
+Total Processing Time (hh:mm:ss) : 00:00:01

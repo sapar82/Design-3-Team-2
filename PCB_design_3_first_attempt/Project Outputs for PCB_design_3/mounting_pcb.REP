@@ -2,6 +2,94 @@
 FileName = mounting_pcb.GBR
 AutoAperture = True
 *************************************************************
+Generating : Top Layer
+      File : mounting_pcb.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+    D63
+    D64
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : mounting_pcb.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : mounting_pcb.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : mounting_pcb.GPT
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+    D63
+*************************************************************
+
+*************************************************************
 Generating : Bottom Paste
       File : mounting_pcb.GBP
 
@@ -25,75 +113,7 @@ Generating : Bottom Layer
 
 
 Used DCodes :
-    D52
-    D53
-    D54
-    D55
-    D56
-    D57
-    D58
-    D59
-    D60
-    D61
-    D62
-    D63
-    D64
-    D65
-    D66
-    D67
-*************************************************************
-
-*************************************************************
-Generating : Bottom Pad Master
-      File : mounting_pcb.GPB
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D53
-    D54
-    D55
-    D56
-    D57
-    D58
-    D59
-    D60
-    D61
-    D62
-    D63
-    D64
-    D65
-*************************************************************
-
-*************************************************************
-Generating : Bottom Overlay
-      File : mounting_pcb.GBO
-
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Top Layer
-      File : mounting_pcb.GTL
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D29
-    D30
-    D31
-    D32
-    D33
-    D34
+    D49
     D50
     D51
     D52
@@ -109,9 +129,31 @@ Used DCodes :
     D62
     D63
     D64
-    D65
-    D66
-    D67
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : mounting_pcb.GPB
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+    D63
 *************************************************************
 
 *************************************************************
@@ -146,61 +188,6 @@ Used DCodes :
     D46
     D47
     D48
-    D49
-*************************************************************
-
-*************************************************************
-Generating : Top Pad Master
-      File : mounting_pcb.GPT
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D29
-    D30
-    D31
-    D32
-    D33
-    D34
-    D53
-    D54
-    D55
-    D56
-    D57
-    D58
-    D59
-    D60
-    D61
-    D62
-    D63
-    D64
-    D65
-*************************************************************
-
-*************************************************************
-Generating : Top Overlay
-      File : mounting_pcb.GTO
-
-    Adding Layer      : Top Overlay
-
-
-Used DCodes :
-    D10
-    D11
-    D12
-*************************************************************
-
-*************************************************************
-Generating : Keep-Out Layer
-      File : mounting_pcb.GKO
-
-    Adding Layer      : Keep-Out Layer
-
-
-Used DCodes :
 *************************************************************
 
 *************************************************************
@@ -229,7 +216,6 @@ Used DCodes :
     D46
     D47
     D48
-    D49
 *************************************************************
 
 *************************************************************
@@ -265,11 +251,21 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
+Generating : Bottom Overlay
+      File : mounting_pcb.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
 Generating : Profile
       File : circuit_pcb.GM
 
 
 Used DCodes :
-    D68
+    D65
 *************************************************************
 
