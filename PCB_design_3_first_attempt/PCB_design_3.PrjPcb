@@ -148,7 +148,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=BYJHBLQG
+DocumentUniqueId=AAMIFPTD
 
 [Document7]
 DocumentPath=mounting_circuit(2).SchDoc
@@ -756,6 +756,44 @@ ProfileName0=Mixed Sim Configuration
 OutputType0=AdvSimNetlist
 ConfigParameters0=Record=AdvSimNetlistView|SheetsToNetlist=0|NetlistType=1|SimulationName= |DoLimitTime=False|AnalysesDataSavedIndex=2|SimView_KeepLastSetup=True|SimViewSetup=KeepLastSetup|DC_Analysis=False|DC_PrimarySource= |DC_PrimaryStart=0|DC_PrimaryStop=0|DC_PrimaryStep=0|DC_EnableSecondary=False|DC_SecondarySource= |DC_SecondaryStart=0|DC_SecondaryStop=0|DC_SecondaryStep=0|AC_Analysis=False|AC_SweepType=LIN|AC_StartFrequency=1|AC_StopFrequency=1E6|AC_TestPoints=100|TRAN_Analysis=True|TRAN_AlwaysSetDefaults=True|TRAN_DefaultCycles=5|TRAN_DefaultPointsPerCycle=50|TRAN_StartTime=0|TRAN_StopTime=5,000u|TRAN_StepTime=20,00n|TRAN_MaxStepTime=20,00n|TRAN_FourierFundFreq=1E6|TRAN_FourierNumHarmonics=10|TRAN_FourierAnalysis=False|TRAN_UseInitialConditions=False|TF_Analysis=False|TF_Source= |TF_Reference=0|PZ_Analysis=False|PZ_Node1= |PZ_Node2=0|PZ_Node3= |PZ_Node4=0|PZ_TfType=VOL|PZ_AnalType=PZ|Noise_Analysis=False|Noise_Source= |Noise_Output= |Noise_Reference=0|Noise_Start=0|Noise_Stop=0|Noise_TestPoints=0|Noise_PointsPerSummary=0|Noise_SweepType=LIN|Op_Analysis=True|ParamSweep_Analysis=False|ParamSweep_Parameter1= |ParamSweep_Type1=LIN|ParamSweep_Start1=0|ParamSweep_Stop1=0|ParamSweep_Step1=0|ParamSweep_SweepType1=False|ParamSweep_SecondaryEnabled=False|ParamSweep_Parameter2= |ParamSweep_Type2=LIN|ParamSweep_Start2=0|ParamSweep_Stop2=0|ParamSweep_Step2=0|ParamSweep_SweepType2=False|TempSweep_Analysis=False|TempSweep_Start=0|TempSweep_Stop=0|TempSweep_Step=0|MonteCarlo_Analysis=False|MonteCarlo_Seed=-1|MonteCarlo_DistributionType=UNIFORM|MonteCarlo_NumberOfRuns=5|MonteCarlo_ResistorTolerance=10%|MonteCarlo_InductorTolerance=10%|MonteCarlo_TransistorTolerance=10%|MonteCarlo_CapacitorTolerance=10%|MonteCarlo_DCSourceTolerance=10%|MonteCarlo_DigitalTpTolerance=10%|OPTION_Method=Trapezoidal|OPTION_DVCC=5.000|OPTION_DVDD=15.00|OPTION_SpiceRefNode=GND|DocumentPath=C:\Users\Public\Documents\Altium\PCB_design_3_first_attempt\circuit.SchDoc|TF_Enabled=False|PZ_Enabled=False|Noise_Enabled=False|TRAN_FourierEnabled=False
 
+[Generic_SmartPDF]
+AutoOpenFile=-1
+AutoOpenOutJob=-1
+
+[Generic_SmartPDFSettings]
+ProjectMode=0
+ZoomPrecision=50
+AddNetsInformation=-1
+AddNetPins=-1
+AddNetNetLabels=-1
+AddNetPorts=-1
+ShowComponentParameters=-1
+GlobalBookmarks=0
+ExportBOM=0
+TemplateFilename=Board Stack Report.XLT
+TemplateStoreRelative=-1
+PCB_PrintColor=1
+SCH_PrintColor=0
+PrintQuality=-4
+SCH_ShowNoErc=-1
+SCH_ShowParameter=-1
+SCH_ShowProbes=-1
+SCH_ShowBlankets=-1
+SCH_NoERCSymbolsToShow="Thin Cross","Thick Cross","Small Cross",Checkbox,Triangle
+SCH_ShowNote=-1
+SCH_ShowNoteCollapsed=-1
+Wir_PrintColor=0
+Ldr_PrintColor=0
+SCH_ExpandLogicalToPhysical=-1
+SCH_VariantName=[No Variations]
+SCH_ExpandComponentDesignators=-1
+SCH_ExpandNetlabels=0
+SCH_ExpandPorts=0
+SCH_ExpandSheetNumber=0
+SCH_ExpandDocumentNumber=0
+SCH_HasExpandLogicalToPhysicalSheets=-1
+SaveSettingsToOutJob=0
+
 [OutputGroup1]
 Name=Netlist Outputs
 Description=
@@ -1121,7 +1159,7 @@ OutputDefault8=0
 Configuration8_Name1=ForceUpdateSettings
 Configuration8_Item1=False
 Configuration8_Name2=OutputConfigurationParameter1
-Configuration8_Item2=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|GenerateDrilledSlotsG85=False|GenerateEIADrillFile=False|GenerateSeparatePlatedNonPlatedFiles=False|GenerateSeparateViaTypeFiles=False|GenerateToolsByDrillSymbols=False|NumberOfDecimals=5|NumberOfUnits=2|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Record=DrillView|Units=Imperial|ZeroesMode=SuppressLeadingZeroes|DocumentPath=C:\Users\phili\OneDrive\Desktop\uni year 3\design 3\Design-3-Team-2\PCB_design_3_first_attempt\mounting_pcb.PcbDoc
+Configuration8_Item2=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|GenerateDrilledSlotsG85=False|GenerateEIADrillFile=False|GenerateSeparatePlatedNonPlatedFiles=False|GenerateSeparateViaTypeFiles=False|GenerateToolsByDrillSymbols=False|NumberOfDecimals=5|NumberOfUnits=2|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Record=DrillView|Units=Imperial|ZeroesMode=SuppressLeadingZeroes|DocumentPath=C:\Users\phili\OneDrive\Desktop\uni year 3\design 3\Design-3-Team-2\PCB_design_3_first_attempt\circuit_pcb.PcbDoc
 OutputType9=IPC2581
 OutputName9=IPC-2581 Files
 OutputDocumentPath9=
@@ -1150,7 +1188,7 @@ OutputDefault12=0
 Configuration12_Name1=ForceUpdateSettings
 Configuration12_Item1=False
 Configuration12_Name2=OutputConfigurationParameter1
-Configuration12_Item2=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|BoardID=BYJHBLQG|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=500000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=False|GenerateDRCRulesFile=False|GenerateReliefShapes=True|GenerateReports=True|GerberUnit=Imperial|GerberUnit=Imperial|IncludeUnconnectedMidLayerPads=True|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MergePadAndRegion=False|MinusApertureTolerance=50|MinusApertureTolerance=50|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=5|NumberOfDecimals=5|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray,16973830~1,16973831~1,16973834~1,16973835~1,16973832~1,16973833~1,16973837~1,16973848~1,16973849~1,16777217~1,16842751~1|PlotBoardProfile=True|PlotBoardProfileFileName=circuit_pcb.GM|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=50|PlusApertureTolerance=50|Record=GerberView|SoftwareArcs=False|Sorted=False|Sorted=False|UncheckPlotDrillDrawingLayerPair0_Backdrill=False|UncheckPlotDrillDrawingLayerPair0_Checked=False|UncheckPlotDrillDrawingLayerPair0_DrillType=Regular|UncheckPlotDrillDrawingLayerPair0_FileName=mounting_pcb.GD1|UncheckPlotDrillDrawingLayerPair0_HighLayer=Bottom Layer|UncheckPlotDrillDrawingLayerPair0_LowLayer=Top Layer|UncheckPlotDrillGuideLayerPair0_Backdrill=False|UncheckPlotDrillGuideLayerPair0_Checked=False|UncheckPlotDrillGuideLayerPair0_DrillType=Regular|UncheckPlotDrillGuideLayerPair0_FileName=mounting_pcb.GG1|UncheckPlotDrillGuideLayerPair0_HighLayer=Bottom Layer|UncheckPlotDrillGuideLayerPair0_LowLayer=Top Layer|UserLayerName.Caption0=mounting_pcb.GBO|UserLayerName.Caption1=mounting_pcb.GTP|UserLayerName.Caption10=mounting_pcb.GKO|UserLayerName.Caption11=mounting_pcb.GBS|UserLayerName.Caption12=mounting_pcb.GM16|UserLayerName.Caption13=mounting_pcb.GM1|UserLayerName.Caption14=mounting_pcb.GBL|UserLayerName.Caption15=mounting_pcb.GM5|UserLayerName.Caption16=mounting_pcb.GM15|UserLayerName.Caption17=mounting_pcb.GM24|UserLayerName.Caption18=mounting_pcb.GM3|UserLayerName.Caption19=mounting_pcb.GM20|UserLayerName.Caption2=mounting_pcb.GTO|UserLayerName.Caption20=mounting_pcb.GTL|UserLayerName.Caption21=mounting_pcb.GBP|UserLayerName.Caption3=mounting_pcb.GTS|UserLayerName.Caption4=mounting_pcb.GM13|UserLayerName.Caption5=mounting_pcb.GM2|UserLayerName.Caption6=mounting_pcb.GM21|UserLayerName.Caption7=mounting_pcb.GM23|UserLayerName.Caption8=mounting_pcb.GPT|UserLayerName.Caption9=mounting_pcb.GPB|UserLayerName.Count=22|UserLayerName.Layer0=16973831|UserLayerName.Layer1=16973832|UserLayerName.Layer10=16973837|UserLayerName.Layer11=16973835|UserLayerName.Layer12=16908304|UserLayerName.Layer13=16908289|UserLayerName.Layer14=16842751|UserLayerName.Layer15=16908293|UserLayerName.Layer16=16908303|UserLayerName.Layer17=16908312|UserLayerName.Layer18=16908291|UserLayerName.Layer19=16908308|UserLayerName.Layer2=16973830|UserLayerName.Layer20=16777217|UserLayerName.Layer21=16973833|UserLayerName.Layer3=16973834|UserLayerName.Layer4=16908301|UserLayerName.Layer5=16908290|UserLayerName.Layer6=16908309|UserLayerName.Layer7=16908311|UserLayerName.Layer8=16973848|UserLayerName.Layer9=16973849|DocumentPath=C:\Users\phili\OneDrive\Desktop\uni year 3\design 3\Design-3-Team-2\PCB_design_3_first_attempt\mounting_pcb.PcbDoc
+Configuration12_Item2=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|BoardID=VNMAKTYX|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=500000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=False|GenerateDRCRulesFile=False|GenerateReliefShapes=True|GenerateReports=True|GerberUnit=Imperial|GerberUnit=Imperial|IncludeUnconnectedMidLayerPads=True|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MergePadAndRegion=False|MinusApertureTolerance=50|MinusApertureTolerance=50|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=5|NumberOfDecimals=5|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray,16973830~1,16973831~1,16973834~1,16973835~1,16973832~1,16973833~1,16973837~1,16973848~1,16973849~1,16777217~1,16842751~1|PlotBoardProfile=True|PlotBoardProfileFileName=circuit_pcb.GM|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=50|PlusApertureTolerance=50|Record=GerberView|SoftwareArcs=False|Sorted=False|Sorted=False|UncheckPlotDrillDrawingLayerPair0_Backdrill=False|UncheckPlotDrillDrawingLayerPair0_Checked=False|UncheckPlotDrillDrawingLayerPair0_DrillType=Regular|UncheckPlotDrillDrawingLayerPair0_FileName=circuit_pcb.GD1|UncheckPlotDrillDrawingLayerPair0_HighLayer=Bottom Layer|UncheckPlotDrillDrawingLayerPair0_LowLayer=Top Layer|UncheckPlotDrillGuideLayerPair0_Backdrill=False|UncheckPlotDrillGuideLayerPair0_Checked=False|UncheckPlotDrillGuideLayerPair0_DrillType=Regular|UncheckPlotDrillGuideLayerPair0_FileName=circuit_pcb.GG1|UncheckPlotDrillGuideLayerPair0_HighLayer=Bottom Layer|UncheckPlotDrillGuideLayerPair0_LowLayer=Top Layer|UserLayerName.Caption0=circuit_pcb.GBO|UserLayerName.Caption1=circuit_pcb.GTP|UserLayerName.Caption10=circuit_pcb.GPB|UserLayerName.Caption11=circuit_pcb.GBS|UserLayerName.Caption12=circuit_pcb.GM16|UserLayerName.Caption13=circuit_pcb.GM1|UserLayerName.Caption14=circuit_pcb.GBL|UserLayerName.Caption15=circuit_pcb.GM5|UserLayerName.Caption16=circuit_pcb.GM15|UserLayerName.Caption17=circuit_pcb.GM24|UserLayerName.Caption18=circuit_pcb.GM3|UserLayerName.Caption19=circuit_pcb.GM20|UserLayerName.Caption2=circuit_pcb.GTO|UserLayerName.Caption20=circuit_pcb.GTL|UserLayerName.Caption21=circuit_pcb.GBP|UserLayerName.Caption3=circuit_pcb.GTS|UserLayerName.Caption4=circuit_pcb.GM13|UserLayerName.Caption5=circuit_pcb.GM2|UserLayerName.Caption6=circuit_pcb.GM21|UserLayerName.Caption7=circuit_pcb.GM23|UserLayerName.Caption8=circuit_pcb.GKO|UserLayerName.Caption9=circuit_pcb.GPT|UserLayerName.Count=22|UserLayerName.Layer0=16973831|UserLayerName.Layer1=16973832|UserLayerName.Layer10=16973849|UserLayerName.Layer11=16973835|UserLayerName.Layer12=16908304|UserLayerName.Layer13=16908289|UserLayerName.Layer14=16842751|UserLayerName.Layer15=16908293|UserLayerName.Layer16=16908303|UserLayerName.Layer17=16908312|UserLayerName.Layer18=16908291|UserLayerName.Layer19=16908308|UserLayerName.Layer2=16973830|UserLayerName.Layer20=16777217|UserLayerName.Layer21=16973833|UserLayerName.Layer3=16973834|UserLayerName.Layer4=16908301|UserLayerName.Layer5=16908290|UserLayerName.Layer6=16908309|UserLayerName.Layer7=16908311|UserLayerName.Layer8=16973837|UserLayerName.Layer9=16973848|DocumentPath=C:\Users\phili\OneDrive\Desktop\uni year 3\design 3\Design-3-Team-2\PCB_design_3_first_attempt\circuit_pcb.PcbDoc
 
 [OutputGroup6]
 Name=Report Outputs
