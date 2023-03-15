@@ -47,6 +47,7 @@
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
 		<Item Name="Global 1.vi" Type="VI" URL="../Global 1.vi"/>
 		<Item Name="Globalt0.vi" Type="VI" URL="../AddedVI/Globalt0.vi"/>
+		<Item Name="GlobalMatrix19x19.vi" Type="VI" URL="../AddedVI/GlobalMatrix19x19.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Write to XML File(array).vi" Type="VI" URL="/&lt;vilib&gt;/Utility/xml.llb/Write to XML File(array).vi"/>
@@ -322,6 +323,7 @@
 			<Item Name="PortsAnalog.vi" Type="VI" URL="../AddedVI/PortsAnalog.vi"/>
 			<Item Name="GlobalTimerAcquisition.vi" Type="VI" URL="../AddedVI/GlobalTimerAcquisition.vi"/>
 			<Item Name="GlobalPowerByTime.vi" Type="VI" URL="../AddedVI/GlobalPowerByTime.vi"/>
+			<Item Name="ReplaceInMatrice19x19.vi" Type="VI" URL="../AddedVI/ReplaceInMatrice19x19.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="Continuous Measurement and Logging Application" Type="EXE">
