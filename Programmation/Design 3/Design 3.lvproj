@@ -45,9 +45,9 @@
 		<Item Name="Logging.lvlib" Type="Library" URL="../Logging/Logging.lvlib"/>
 		<Item Name="Settings.lvlib" Type="Library" URL="../Settings/Settings.lvlib"/>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
-		<Item Name="Global 1.vi" Type="VI" URL="../Global 1.vi"/>
 		<Item Name="Globalt0.vi" Type="VI" URL="../AddedVI/Globalt0.vi"/>
 		<Item Name="GlobalMatrix19x19.vi" Type="VI" URL="../AddedVI/GlobalMatrix19x19.vi"/>
+		<Item Name="GlobalLongueurDonde.vi" Type="VI" URL="../AddedVI/GlobalLongueurDonde.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Write to XML File(array).vi" Type="VI" URL="/&lt;vilib&gt;/Utility/xml.llb/Write to XML File(array).vi"/>
