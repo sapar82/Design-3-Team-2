@@ -26,8 +26,8 @@
 <Val>C:\Users\Benjamin\Documents\LabVIEW Data\Logged Data.tdms</Val>
 </Path>
 <Refnum>
-<Name>TDMS File Reference</Name>
-<RefKind>TDMS File</RefKind>
+<Name>file ref</Name>
+<RefKind>Byte Stream File</RefKind>
 <Val>0x00000000</Val>
 </Refnum>
 </Cluster>
