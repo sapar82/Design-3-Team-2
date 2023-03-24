@@ -313,7 +313,6 @@
 				<Item Name="DAQmx Write (Counter 1D Frequency 1Chan NSamp).vi" Type="VI" URL="/&lt;vilib&gt;/DAQmx/write.llb/DAQmx Write (Counter 1D Frequency 1Chan NSamp).vi"/>
 				<Item Name="DAQmx Write (Counter 1D Ticks 1Chan NSamp).vi" Type="VI" URL="/&lt;vilib&gt;/DAQmx/write.llb/DAQmx Write (Counter 1D Ticks 1Chan NSamp).vi"/>
 				<Item Name="DAQmx Write (Counter 1D Time 1Chan NSamp).vi" Type="VI" URL="/&lt;vilib&gt;/DAQmx/write.llb/DAQmx Write (Counter 1D Time 1Chan NSamp).vi"/>
-				<Item Name="DAQmx Stop Task.vi" Type="VI" URL="/&lt;vilib&gt;/DAQmx/configure/task.llb/DAQmx Stop Task.vi"/>
 				<Item Name="High Resolution Relative Seconds.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/High Resolution Relative Seconds.vi"/>
 				<Item Name="sub_Random U32.vi" Type="VI" URL="/&lt;vilib&gt;/numeric/sub_Random U32.vi"/>
 				<Item Name="Random Number (Range) U64.vi" Type="VI" URL="/&lt;vilib&gt;/numeric/Random Number (Range) U64.vi"/>
@@ -360,7 +359,7 @@
 			<Item Name="BoolSelection.vi" Type="VI" URL="../AddedVI/BoolSelection.vi"/>
 			<Item Name="GlobalTimerAcquisition.vi" Type="VI" URL="../AddedVI/GlobalTimerAcquisition.vi"/>
 			<Item Name="GlobalPowerByTime.vi" Type="VI" URL="../AddedVI/GlobalPowerByTime.vi"/>
-			<Item Name="ReplaceInMatrice19x19.vi" Type="VI" URL="../AddedVI/ReplaceInMatrice19x19.vi"/>
+			<Item Name="ReplaceInMatriceScaling.vi" Type="VI" URL="../AddedVI/ReplaceInMatriceScaling.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="Continuous Measurement and Logging Application" Type="EXE">
