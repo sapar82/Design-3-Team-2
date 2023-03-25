@@ -53,6 +53,7 @@
 		<Item Name="GlobalWriteFile.vi" Type="VI" URL="../AddedVI/GlobalWriteFile.vi"/>
 		<Item Name="GlobalDataToWrite.vi" Type="VI" URL="../AddedVI/GlobalDataToWrite.vi"/>
 		<Item Name="GlobalLongueurOnde.vi" Type="VI" URL="../AddedVI/GlobalLongueurOnde.vi"/>
+		<Item Name="GlobalDAQconnected.vi" Type="VI" URL="../AddedVI/GlobalDAQconnected.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Write to XML File(array).vi" Type="VI" URL="/&lt;vilib&gt;/Utility/xml.llb/Write to XML File(array).vi"/>
@@ -313,7 +314,6 @@
 				<Item Name="DAQmx Write (Counter 1D Frequency 1Chan NSamp).vi" Type="VI" URL="/&lt;vilib&gt;/DAQmx/write.llb/DAQmx Write (Counter 1D Frequency 1Chan NSamp).vi"/>
 				<Item Name="DAQmx Write (Counter 1D Ticks 1Chan NSamp).vi" Type="VI" URL="/&lt;vilib&gt;/DAQmx/write.llb/DAQmx Write (Counter 1D Ticks 1Chan NSamp).vi"/>
 				<Item Name="DAQmx Write (Counter 1D Time 1Chan NSamp).vi" Type="VI" URL="/&lt;vilib&gt;/DAQmx/write.llb/DAQmx Write (Counter 1D Time 1Chan NSamp).vi"/>
-				<Item Name="High Resolution Relative Seconds.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/High Resolution Relative Seconds.vi"/>
 				<Item Name="sub_Random U32.vi" Type="VI" URL="/&lt;vilib&gt;/numeric/sub_Random U32.vi"/>
 				<Item Name="Random Number (Range) U64.vi" Type="VI" URL="/&lt;vilib&gt;/numeric/Random Number (Range) U64.vi"/>
 				<Item Name="Random Number (Range) I64.vi" Type="VI" URL="/&lt;vilib&gt;/numeric/Random Number (Range) I64.vi"/>
@@ -357,9 +357,9 @@
 			<Item Name="ClusterOut.ctl" Type="VI" URL="../AddedVI/ClusterOut.ctl"/>
 			<Item Name="GlobalAcquisition.vi" Type="VI" URL="../AddedVI/GlobalAcquisition.vi"/>
 			<Item Name="BoolSelection.vi" Type="VI" URL="../AddedVI/BoolSelection.vi"/>
-			<Item Name="GlobalTimerAcquisition.vi" Type="VI" URL="../AddedVI/GlobalTimerAcquisition.vi"/>
 			<Item Name="GlobalPowerByTime.vi" Type="VI" URL="../AddedVI/GlobalPowerByTime.vi"/>
 			<Item Name="ReplaceInMatriceScaling.vi" Type="VI" URL="../AddedVI/ReplaceInMatriceScaling.vi"/>
+			<Item Name="AddTextToFile.vi" Type="VI" URL="../AddedVI/AddTextToFile.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="Continuous Measurement and Logging Application" Type="EXE">
