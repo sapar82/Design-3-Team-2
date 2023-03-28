@@ -42,18 +42,12 @@
 			<Item Name="UI State.ctl" Type="VI" URL="../controls/UI State.ctl"/>
 		</Item>
 		<Item Name="Acquisition.lvlib" Type="Library" URL="../Acquisition/Acquisition.lvlib"/>
-		<Item Name="Logging.lvlib" Type="Library" URL="../Logging/Logging.lvlib"/>
 		<Item Name="Settings.lvlib" Type="Library" URL="../Settings/Settings.lvlib"/>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
-		<Item Name="Globalt0.vi" Type="VI" URL="../AddedVI/Globalt0.vi"/>
-		<Item Name="GlobalMatrix19x19.vi" Type="VI" URL="../AddedVI/GlobalMatrix19x19.vi"/>
-		<Item Name="GlobalLongueurDonde.vi" Type="VI" URL="../AddedVI/GlobalLongueurDonde.vi"/>
-		<Item Name="GlobalFolderPath.vi" Type="VI" URL="../AddedVI/GlobalFolderPath.vi"/>
-		<Item Name="GlobalFileName.vi" Type="VI" URL="../AddedVI/GlobalFileName.vi"/>
-		<Item Name="GlobalWriteFile.vi" Type="VI" URL="../AddedVI/GlobalWriteFile.vi"/>
-		<Item Name="GlobalDataToWrite.vi" Type="VI" URL="../AddedVI/GlobalDataToWrite.vi"/>
-		<Item Name="GlobalLongueurOnde.vi" Type="VI" URL="../AddedVI/GlobalLongueurOnde.vi"/>
-		<Item Name="GlobalDAQconnected.vi" Type="VI" URL="../AddedVI/GlobalDAQconnected.vi"/>
+		<Item Name="GlobalProfile.vi" Type="VI" URL="../GlobalVariable/GlobalProfile.vi"/>
+		<Item Name="Globalt0.vi" Type="VI" URL="../GlobalVariable/Globalt0.vi"/>
+		<Item Name="GlobalLongueurOnde.vi" Type="VI" URL="../GlobalVariable/GlobalLongueurOnde.vi"/>
+		<Item Name="GlobalWriteFile.vi" Type="VI" URL="../GlobalVariable/GlobalWriteFile.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Write to XML File(array).vi" Type="VI" URL="/&lt;vilib&gt;/Utility/xml.llb/Write to XML File(array).vi"/>
@@ -68,7 +62,6 @@
 				<Item Name="DialogType.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/DialogType.ctl"/>
 				<Item Name="General Error Handler.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/General Error Handler.vi"/>
 				<Item Name="Simple Error Handler.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Simple Error Handler.vi"/>
-				<Item Name="Get File Extension.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/libraryn.llb/Get File Extension.vi"/>
 				<Item Name="NI_AALBase.lvlib" Type="Library" URL="/&lt;vilib&gt;/Analysis/NI_AALBase.lvlib"/>
 				<Item Name="Clear Errors.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Clear Errors.vi"/>
 				<Item Name="NI_FileType.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/lvfile.llb/NI_FileType.lvlib"/>
@@ -319,29 +312,6 @@
 				<Item Name="Random Number (Range) I64.vi" Type="VI" URL="/&lt;vilib&gt;/numeric/Random Number (Range) I64.vi"/>
 				<Item Name="Random Number (Range) DBL.vi" Type="VI" URL="/&lt;vilib&gt;/numeric/Random Number (Range) DBL.vi"/>
 				<Item Name="Random Number (Range).vi" Type="VI" URL="/&lt;vilib&gt;/numeric/Random Number (Range).vi"/>
-				<Item Name="Export Waveforms to Spreadsheet File.vi" Type="VI" URL="/&lt;vilib&gt;/Waveform/WDTFileIO.llb/Export Waveforms to Spreadsheet File.vi"/>
-				<Item Name="Export Waveforms To Spreadsheet File (1D).vi" Type="VI" URL="/&lt;vilib&gt;/Waveform/WDTFileIO.llb/Export Waveforms To Spreadsheet File (1D).vi"/>
-				<Item Name="Waveform Time to Date Time String.vi" Type="VI" URL="/&lt;vilib&gt;/Waveform/WDTFileIO.llb/Waveform Time to Date Time String.vi"/>
-				<Item Name="Check for Equality.vi" Type="VI" URL="/&lt;vilib&gt;/Waveform/WDTOps.llb/Check for Equality.vi"/>
-				<Item Name="Get Waveform Time Array.vi" Type="VI" URL="/&lt;vilib&gt;/Waveform/WDTOps.llb/Get Waveform Time Array.vi"/>
-				<Item Name="WDT Get Waveform Time Array DBL.vi" Type="VI" URL="/&lt;vilib&gt;/Waveform/WDTOps.llb/WDT Get Waveform Time Array DBL.vi"/>
-				<Item Name="Number of Waveform Samples.vi" Type="VI" URL="/&lt;vilib&gt;/Waveform/WDTOps.llb/Number of Waveform Samples.vi"/>
-				<Item Name="WDT Number of Waveform Samples DBL.vi" Type="VI" URL="/&lt;vilib&gt;/Waveform/WDTOps.llb/WDT Number of Waveform Samples DBL.vi"/>
-				<Item Name="WDT Number of Waveform Samples CDB.vi" Type="VI" URL="/&lt;vilib&gt;/Waveform/WDTOps.llb/WDT Number of Waveform Samples CDB.vi"/>
-				<Item Name="WDT Number of Waveform Samples EXT.vi" Type="VI" URL="/&lt;vilib&gt;/Waveform/WDTOps.llb/WDT Number of Waveform Samples EXT.vi"/>
-				<Item Name="WDT Number of Waveform Samples I16.vi" Type="VI" URL="/&lt;vilib&gt;/Waveform/WDTOps.llb/WDT Number of Waveform Samples I16.vi"/>
-				<Item Name="WDT Number of Waveform Samples I32.vi" Type="VI" URL="/&lt;vilib&gt;/Waveform/WDTOps.llb/WDT Number of Waveform Samples I32.vi"/>
-				<Item Name="WDT Number of Waveform Samples I8.vi" Type="VI" URL="/&lt;vilib&gt;/Waveform/WDTOps.llb/WDT Number of Waveform Samples I8.vi"/>
-				<Item Name="WDT Number of Waveform Samples SGL.vi" Type="VI" URL="/&lt;vilib&gt;/Waveform/WDTOps.llb/WDT Number of Waveform Samples SGL.vi"/>
-				<Item Name="DWDT Get Waveform Time Array.vi" Type="VI" URL="/&lt;vilib&gt;/Waveform/DWDTOps.llb/DWDT Get Waveform Time Array.vi"/>
-				<Item Name="DWDT Digital Size.vi" Type="VI" URL="/&lt;vilib&gt;/Waveform/DWDTOps.llb/DWDT Digital Size.vi"/>
-				<Item Name="Write File+ (string).vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Write File+ (string).vi"/>
-				<Item Name="compatWriteText.vi" Type="VI" URL="/&lt;vilib&gt;/_oldvers/_oldvers.llb/compatWriteText.vi"/>
-				<Item Name="Close File+.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Close File+.vi"/>
-				<Item Name="Find First Error.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Find First Error.vi"/>
-				<Item Name="Export Waveforms To Spreadsheet File (2D).vi" Type="VI" URL="/&lt;vilib&gt;/Waveform/WDTFileIO.llb/Export Waveforms To Spreadsheet File (2D).vi"/>
-				<Item Name="Export Waveform To Spreadsheet File.vi" Type="VI" URL="/&lt;vilib&gt;/Waveform/WDTFileIO.llb/Export Waveform To Spreadsheet File.vi"/>
-				<Item Name="Export Waveforms To Spreadsheet File (Digital).vi" Type="VI" URL="/&lt;vilib&gt;/Waveform/WDTFileIO.llb/Export Waveforms To Spreadsheet File (Digital).vi"/>
 				<Item Name="Write Spreadsheet String.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Write Spreadsheet String.vi"/>
 				<Item Name="Write Delimited Spreadsheet (string).vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Write Delimited Spreadsheet (string).vi"/>
 				<Item Name="Write Delimited Spreadsheet (I64).vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Write Delimited Spreadsheet (I64).vi"/>
@@ -356,11 +326,14 @@
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
 			<Item Name="ClusterOut.ctl" Type="VI" URL="../AddedVI/ClusterOut.ctl"/>
-			<Item Name="GlobalAcquisition.vi" Type="VI" URL="../AddedVI/GlobalAcquisition.vi"/>
+			<Item Name="GlobalAcquisition.vi" Type="VI" URL="../GlobalVariable/GlobalAcquisition.vi"/>
 			<Item Name="BoolSelection.vi" Type="VI" URL="../AddedVI/BoolSelection.vi"/>
-			<Item Name="GlobalPowerByTime.vi" Type="VI" URL="../AddedVI/GlobalPowerByTime.vi"/>
+			<Item Name="GlobalPowerByTime.vi" Type="VI" URL="../GlobalVariable/GlobalPowerByTime.vi"/>
 			<Item Name="ReplaceInMatriceScaling.vi" Type="VI" URL="../AddedVI/ReplaceInMatriceScaling.vi"/>
 			<Item Name="AddTextToFile.vi" Type="VI" URL="../AddedVI/AddTextToFile.vi"/>
+			<Item Name="GlobalFolderPath.vi" Type="VI" URL="../GlobalVariable/GlobalFolderPath.vi"/>
+			<Item Name="Logging Configuration.ctl" Type="VI" URL="../Logging/Logging Configuration.ctl"/>
+			<Item Name="CustomGaussianKernel.vi" Type="VI" URL="../AddedVI/CustomGaussianKernel.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="Continuous Measurement and Logging Application" Type="EXE">
