@@ -44,7 +44,6 @@
 		<Item Name="Acquisition.lvlib" Type="Library" URL="../Acquisition/Acquisition.lvlib"/>
 		<Item Name="Settings.lvlib" Type="Library" URL="../Settings/Settings.lvlib"/>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
-		<Item Name="GlobalProfile.vi" Type="VI" URL="../GlobalVariable/GlobalProfile.vi"/>
 		<Item Name="Globalt0.vi" Type="VI" URL="../GlobalVariable/Globalt0.vi"/>
 		<Item Name="GlobalLongueurOnde.vi" Type="VI" URL="../GlobalVariable/GlobalLongueurOnde.vi"/>
 		<Item Name="GlobalWriteFile.vi" Type="VI" URL="../GlobalVariable/GlobalWriteFile.vi"/>
@@ -320,12 +319,12 @@
 				<Item Name="subFile Dialog.vi" Type="VI" URL="/&lt;vilib&gt;/express/express input/FileDialogBlock.llb/subFile Dialog.vi"/>
 				<Item Name="ex_CorrectErrorChain.vi" Type="VI" URL="/&lt;vilib&gt;/express/express shared/ex_CorrectErrorChain.vi"/>
 				<Item Name="NI_AALPro.lvlib" Type="Library" URL="/&lt;vilib&gt;/Analysis/NI_AALPro.lvlib"/>
+				<Item Name="NI_Gmath.lvlib" Type="Library" URL="/&lt;vilib&gt;/gmath/NI_Gmath.lvlib"/>
 			</Item>
 			<Item Name="lvanlys.dll" Type="Document" URL="/&lt;resource&gt;/lvanlys.dll"/>
 			<Item Name="nilvaiu.dll" Type="Document" URL="nilvaiu.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
-			<Item Name="ClusterOut.ctl" Type="VI" URL="../AddedVI/ClusterOut.ctl"/>
 			<Item Name="GlobalAcquisition.vi" Type="VI" URL="../GlobalVariable/GlobalAcquisition.vi"/>
 			<Item Name="BoolSelection.vi" Type="VI" URL="../AddedVI/BoolSelection.vi"/>
 			<Item Name="GlobalPowerByTime.vi" Type="VI" URL="../GlobalVariable/GlobalPowerByTime.vi"/>
