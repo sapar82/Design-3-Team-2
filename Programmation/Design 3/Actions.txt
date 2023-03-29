@@ -162,3 +162,35 @@
 2023-03-28 22h01min34s : Début d'une acquisition
 2023-03-28 22h04min06s : Début d'une acquisition
 2023-03-28 22h07min18s : Début d'une acquisition
+2023-03-29 09h40min39s : Début d'une acquisition
+2023-03-29 09h41min10s : Arrêt de l'acquisition
+2023-03-29 09h42min59s : Début d'une acquisition
+2023-03-29 09h43min01s : Arrêt de l'acquisition
+2023-03-29 09h43min07s : Début d'une acquisition
+2023-03-29 09h43min14s : Arrêt de l'acquisition
+2023-03-29 09h45min28s : Début d'une acquisition
+2023-03-29 09h45min33s : Arrêt de l'acquisition
+2023-03-29 09h45min36s : Début d'une acquisition
+2023-03-29 09h45min39s : Arrêt de l'acquisition
+2023-03-29 09h45min42s : Changement de la valeur de la longueur d'onde (977)
+2023-03-29 09h45min43s : Changement de la valeur de la longueur d'onde (976)
+2023-03-29 09h45min44s : Début d'une acquisition
+2023-03-29 09h45min45s : Arrêt de l'acquisition
+2023-03-29 09h46min29s : Début d'une acquisition
+2023-03-29 09h46min33s : Arrêt de l'acquisition
+2023-03-29 09h47min40s : Début d'une acquisition
+2023-03-29 09h47min45s : Arrêt de l'acquisition
+2023-03-29 09h48min53s : Début d'une acquisition
+2023-03-29 09h48min54s : Arrêt de l'acquisition
+2023-03-29 10h00min23s : Début d'une acquisition
+2023-03-29 10h00min25s : Arrêt de l'acquisition
+2023-03-29 10h00min29s : Début d'une acquisition
+2023-03-29 10h00min30s : Arrêt de l'acquisition
+2023-03-29 10h16min02s : Début d'une acquisition
+2023-03-29 10h17min12s : Début d'une acquisition
+2023-03-29 10h17min31s : Début d'une acquisition
+2023-03-29 10h19min40s : Début d'une acquisition
+2023-03-29 10h23min53s : Début d'une acquisition
+2023-03-29 10h23min57s : Arrêt de l'acquisition
+2023-03-29 10h26min53s : Début d'une acquisition
+2023-03-29 11h18min45s : Début d'une acquisition
