@@ -151,3 +151,14 @@
 2023-03-28 13h05min52s : Début d'une acquisition
 2023-03-28 13h05min56s : Arrêt de l'acquisition
 2023-03-28 13h07min51s : Début d'une acquisition
+2023-03-28 21h27min53s : Début d'une acquisition
+2023-03-28 21h28min08s : Arrêt de l'acquisition
+2023-03-28 21h28min45s : Début d'une acquisition
+2023-03-28 21h30min23s : Début d'une acquisition
+2023-03-28 21h30min26s : Arrêt de l'acquisition
+2023-03-28 21h30min41s : Début d'une acquisition
+2023-03-28 21h57min49s : Début d'une acquisition
+2023-03-28 21h58min47s : Début d'une acquisition
+2023-03-28 22h01min34s : Début d'une acquisition
+2023-03-28 22h04min06s : Début d'une acquisition
+2023-03-28 22h07min18s : Début d'une acquisition

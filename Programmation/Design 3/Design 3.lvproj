@@ -334,6 +334,7 @@
 			<Item Name="GlobalFolderPath.vi" Type="VI" URL="../GlobalVariable/GlobalFolderPath.vi"/>
 			<Item Name="Logging Configuration.ctl" Type="VI" URL="../Logging/Logging Configuration.ctl"/>
 			<Item Name="CustomGaussianKernel.vi" Type="VI" URL="../AddedVI/CustomGaussianKernel.vi"/>
+			<Item Name="Absorbance.vi" Type="VI" URL="../AddedVI/Absorbance.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="Continuous Measurement and Logging Application" Type="EXE">
