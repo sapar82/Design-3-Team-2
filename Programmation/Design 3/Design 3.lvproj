@@ -46,7 +46,6 @@
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
 		<Item Name="Globalt0.vi" Type="VI" URL="../GlobalVariable/Globalt0.vi"/>
 		<Item Name="GlobalLongueurOnde.vi" Type="VI" URL="../GlobalVariable/GlobalLongueurOnde.vi"/>
-		<Item Name="GlobalWriteFile.vi" Type="VI" URL="../GlobalVariable/GlobalWriteFile.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Write to XML File(array).vi" Type="VI" URL="/&lt;vilib&gt;/Utility/xml.llb/Write to XML File(array).vi"/>
@@ -306,11 +305,6 @@
 				<Item Name="DAQmx Write (Counter 1D Frequency 1Chan NSamp).vi" Type="VI" URL="/&lt;vilib&gt;/DAQmx/write.llb/DAQmx Write (Counter 1D Frequency 1Chan NSamp).vi"/>
 				<Item Name="DAQmx Write (Counter 1D Ticks 1Chan NSamp).vi" Type="VI" URL="/&lt;vilib&gt;/DAQmx/write.llb/DAQmx Write (Counter 1D Ticks 1Chan NSamp).vi"/>
 				<Item Name="DAQmx Write (Counter 1D Time 1Chan NSamp).vi" Type="VI" URL="/&lt;vilib&gt;/DAQmx/write.llb/DAQmx Write (Counter 1D Time 1Chan NSamp).vi"/>
-				<Item Name="sub_Random U32.vi" Type="VI" URL="/&lt;vilib&gt;/numeric/sub_Random U32.vi"/>
-				<Item Name="Random Number (Range) U64.vi" Type="VI" URL="/&lt;vilib&gt;/numeric/Random Number (Range) U64.vi"/>
-				<Item Name="Random Number (Range) I64.vi" Type="VI" URL="/&lt;vilib&gt;/numeric/Random Number (Range) I64.vi"/>
-				<Item Name="Random Number (Range) DBL.vi" Type="VI" URL="/&lt;vilib&gt;/numeric/Random Number (Range) DBL.vi"/>
-				<Item Name="Random Number (Range).vi" Type="VI" URL="/&lt;vilib&gt;/numeric/Random Number (Range).vi"/>
 				<Item Name="Write Spreadsheet String.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Write Spreadsheet String.vi"/>
 				<Item Name="Write Delimited Spreadsheet (string).vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Write Delimited Spreadsheet (string).vi"/>
 				<Item Name="Write Delimited Spreadsheet (I64).vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Write Delimited Spreadsheet (I64).vi"/>
@@ -325,15 +319,18 @@
 			<Item Name="nilvaiu.dll" Type="Document" URL="nilvaiu.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
-			<Item Name="GlobalAcquisition.vi" Type="VI" URL="../GlobalVariable/GlobalAcquisition.vi"/>
 			<Item Name="BoolSelection.vi" Type="VI" URL="../AddedVI/BoolSelection.vi"/>
 			<Item Name="GlobalPowerByTime.vi" Type="VI" URL="../GlobalVariable/GlobalPowerByTime.vi"/>
 			<Item Name="ReplaceInMatriceScaling.vi" Type="VI" URL="../AddedVI/ReplaceInMatriceScaling.vi"/>
 			<Item Name="AddTextToFile.vi" Type="VI" URL="../AddedVI/AddTextToFile.vi"/>
-			<Item Name="GlobalFolderPath.vi" Type="VI" URL="../GlobalVariable/GlobalFolderPath.vi"/>
 			<Item Name="Logging Configuration.ctl" Type="VI" URL="../Logging/Logging Configuration.ctl"/>
 			<Item Name="CustomGaussianKernel.vi" Type="VI" URL="../AddedVI/CustomGaussianKernel.vi"/>
 			<Item Name="Absorbance.vi" Type="VI" URL="../AddedVI/Absorbance.vi"/>
+			<Item Name="ConvertVoltToDegree.vi" Type="VI" URL="../AddedVI/ConvertVoltToDegree.vi"/>
+			<Item Name="SetTo0.vi" Type="VI" URL="../AddedVI/SetTo0.vi"/>
+			<Item Name="GlobalSet0.vi" Type="VI" URL="../GlobalVariable/GlobalSet0.vi"/>
+			<Item Name="GlobalTemporaryFilePath.vi" Type="VI" URL="../GlobalVariable/GlobalTemporaryFilePath.vi"/>
+			<Item Name="GlobalDefaultFolderPath.vi" Type="VI" URL="../GlobalVariable/GlobalDefaultFolderPath.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="Continuous Measurement and Logging Application" Type="EXE">
