@@ -46,6 +46,7 @@
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
 		<Item Name="Globalt0.vi" Type="VI" URL="../GlobalVariable/Globalt0.vi"/>
 		<Item Name="GlobalLongueurOnde.vi" Type="VI" URL="../GlobalVariable/GlobalLongueurOnde.vi"/>
+		<Item Name="GlobalDisconnected.vi" Type="VI" URL="../GlobalVariable/GlobalDisconnected.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Write to XML File(array).vi" Type="VI" URL="/&lt;vilib&gt;/Utility/xml.llb/Write to XML File(array).vi"/>
