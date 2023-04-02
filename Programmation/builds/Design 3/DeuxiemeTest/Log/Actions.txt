@@ -1,0 +1,18 @@
+
+2023-03-31 12h43min46s : Début d'une acquisition
+2023-03-31 12h44min59s : Mise à 0
+2023-03-31 12h45min16s : Début d'une acquisition
+2023-03-31 12h51min46s : Changement de la valeur de la longueur d'onde (1)
+2023-03-31 12h51min46s : Changement de la valeur de la longueur d'onde (2)
+2023-03-31 12h51min47s : Changement de la valeur de la longueur d'onde (3)
+2023-03-31 12h51min47s : Changement de la valeur de la longueur d'onde (4)
+2023-03-31 12h51min47s : Changement de la valeur de la longueur d'onde (5)
+2023-03-31 12h51min47s : Changement de la valeur de la longueur d'onde (6)
+2023-03-31 12h51min54s : Changement de la valeur de la longueur d'onde (7)
+2023-03-31 12h51min55s : Changement de la valeur de la longueur d'onde (6)
+2023-03-31 12h51min55s : Changement de la valeur de la longueur d'onde (5)
+2023-03-31 12h51min59s : Changement de la valeur de la longueur d'onde (976)
+2023-03-31 12h52min59s : Début d'une acquisition
+2023-04-02 12h45min36s : Début d'une acquisition
+2023-04-02 12h45min42s : Arrêt de l'acquisition
+2023-04-02 12h46min05s : Début d'une acquisition
