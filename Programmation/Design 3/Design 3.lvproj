@@ -48,6 +48,11 @@
 		<Item Name="GlobalLongueurOnde.vi" Type="VI" URL="../GlobalVariable/GlobalLongueurOnde.vi"/>
 		<Item Name="GlobalDisconnected.vi" Type="VI" URL="../GlobalVariable/GlobalDisconnected.vi"/>
 		<Item Name="LogoScavenger.ico" Type="Document" URL="../../École/Université/6) SESSION D&apos;HIVER 2023/Design 3/LogoScavenger.ico"/>
+		<Item Name="GlobalPosXbyTime.vi" Type="VI" URL="../GlobalVariable/GlobalPosXbyTime.vi"/>
+		<Item Name="GlobalPosYbyTime.vi" Type="VI" URL="../GlobalVariable/GlobalPosYbyTime.vi"/>
+		<Item Name="GlobalProfileByTime.vi" Type="VI" URL="../GlobalVariable/GlobalProfileByTime.vi"/>
+		<Item Name="GlobalTimeStep.vi" Type="VI" URL="../GlobalVariable/GlobalTimeStep.vi"/>
+		<Item Name="GlobalFirstRep.vi" Type="VI" URL="../GlobalVariable/GlobalFirstRep.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Write to XML File(array).vi" Type="VI" URL="/&lt;vilib&gt;/Utility/xml.llb/Write to XML File(array).vi"/>
@@ -330,7 +335,6 @@
 			<Item Name="ConvertVoltToDegree.vi" Type="VI" URL="../AddedVI/ConvertVoltToDegree.vi"/>
 			<Item Name="SetTo0.vi" Type="VI" URL="../AddedVI/SetTo0.vi"/>
 			<Item Name="GlobalSet0.vi" Type="VI" URL="../GlobalVariable/GlobalSet0.vi"/>
-			<Item Name="GlobalTemporaryFilePath.vi" Type="VI" URL="../GlobalVariable/GlobalTemporaryFilePath.vi"/>
 			<Item Name="GlobalDefaultFolderPath.vi" Type="VI" URL="../GlobalVariable/GlobalDefaultFolderPath.vi"/>
 			<Item Name="CustomGaussianKernel.vi" Type="VI" URL="../AddedVI/CustomGaussianKernel.vi"/>
 			<Item Name="CreateProfileToSave.vi" Type="VI" URL="../AddedVI/CreateProfileToSave.vi"/>
