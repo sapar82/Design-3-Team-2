@@ -307,20 +307,15 @@
 				<Item Name="DAQmx Write (Counter 1D Frequency 1Chan NSamp).vi" Type="VI" URL="/&lt;vilib&gt;/DAQmx/write.llb/DAQmx Write (Counter 1D Frequency 1Chan NSamp).vi"/>
 				<Item Name="DAQmx Write (Counter 1D Ticks 1Chan NSamp).vi" Type="VI" URL="/&lt;vilib&gt;/DAQmx/write.llb/DAQmx Write (Counter 1D Ticks 1Chan NSamp).vi"/>
 				<Item Name="DAQmx Write (Counter 1D Time 1Chan NSamp).vi" Type="VI" URL="/&lt;vilib&gt;/DAQmx/write.llb/DAQmx Write (Counter 1D Time 1Chan NSamp).vi"/>
-				<Item Name="Write Spreadsheet String.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Write Spreadsheet String.vi"/>
-				<Item Name="Write Delimited Spreadsheet (string).vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Write Delimited Spreadsheet (string).vi"/>
-				<Item Name="Write Delimited Spreadsheet (I64).vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Write Delimited Spreadsheet (I64).vi"/>
-				<Item Name="Write Delimited Spreadsheet (DBL).vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Write Delimited Spreadsheet (DBL).vi"/>
-				<Item Name="Write Delimited Spreadsheet.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Write Delimited Spreadsheet.vi"/>
 				<Item Name="subFile Dialog.vi" Type="VI" URL="/&lt;vilib&gt;/express/express input/FileDialogBlock.llb/subFile Dialog.vi"/>
 				<Item Name="ex_CorrectErrorChain.vi" Type="VI" URL="/&lt;vilib&gt;/express/express shared/ex_CorrectErrorChain.vi"/>
-				<Item Name="NI_AALPro.lvlib" Type="Library" URL="/&lt;vilib&gt;/Analysis/NI_AALPro.lvlib"/>
 				<Item Name="NI_Gmath.lvlib" Type="Library" URL="/&lt;vilib&gt;/gmath/NI_Gmath.lvlib"/>
 				<Item Name="sub_Random U32.vi" Type="VI" URL="/&lt;vilib&gt;/numeric/sub_Random U32.vi"/>
 				<Item Name="Random Number (Range) U64.vi" Type="VI" URL="/&lt;vilib&gt;/numeric/Random Number (Range) U64.vi"/>
 				<Item Name="Random Number (Range) I64.vi" Type="VI" URL="/&lt;vilib&gt;/numeric/Random Number (Range) I64.vi"/>
 				<Item Name="Random Number (Range) DBL.vi" Type="VI" URL="/&lt;vilib&gt;/numeric/Random Number (Range) DBL.vi"/>
 				<Item Name="Random Number (Range).vi" Type="VI" URL="/&lt;vilib&gt;/numeric/Random Number (Range).vi"/>
+				<Item Name="NI_AALPro.lvlib" Type="Library" URL="/&lt;vilib&gt;/Analysis/NI_AALPro.lvlib"/>
 			</Item>
 			<Item Name="lvanlys.dll" Type="Document" URL="/&lt;resource&gt;/lvanlys.dll"/>
 			<Item Name="nilvaiu.dll" Type="Document" URL="nilvaiu.dll">
@@ -331,13 +326,14 @@
 			<Item Name="ReplaceInMatriceScaling.vi" Type="VI" URL="../AddedVI/ReplaceInMatriceScaling.vi"/>
 			<Item Name="AddTextToFile.vi" Type="VI" URL="../AddedVI/AddTextToFile.vi"/>
 			<Item Name="Logging Configuration.ctl" Type="VI" URL="../Logging/Logging Configuration.ctl"/>
-			<Item Name="CustomGaussianKernel.vi" Type="VI" URL="../AddedVI/CustomGaussianKernel.vi"/>
 			<Item Name="Absorbance.vi" Type="VI" URL="../AddedVI/Absorbance.vi"/>
 			<Item Name="ConvertVoltToDegree.vi" Type="VI" URL="../AddedVI/ConvertVoltToDegree.vi"/>
 			<Item Name="SetTo0.vi" Type="VI" URL="../AddedVI/SetTo0.vi"/>
 			<Item Name="GlobalSet0.vi" Type="VI" URL="../GlobalVariable/GlobalSet0.vi"/>
 			<Item Name="GlobalTemporaryFilePath.vi" Type="VI" URL="../GlobalVariable/GlobalTemporaryFilePath.vi"/>
 			<Item Name="GlobalDefaultFolderPath.vi" Type="VI" URL="../GlobalVariable/GlobalDefaultFolderPath.vi"/>
+			<Item Name="CustomGaussianKernel.vi" Type="VI" URL="../AddedVI/CustomGaussianKernel.vi"/>
+			<Item Name="CreateProfileToSave.vi" Type="VI" URL="../AddedVI/CreateProfileToSave.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="Continuous Measurement and Logging Application" Type="EXE">
@@ -376,45 +372,86 @@
 				<Property Name="TgtF_targetfileGUID" Type="Str">{76FD73CC-C26C-4C57-8E1F-07C587D6546E}</Property>
 				<Property Name="TgtF_targetfileName" Type="Str">Main.exe</Property>
 			</Item>
-			<Item Name="TroisiemeEssai(SimulationDeDonnées)" Type="EXE">
+			<Item Name="Test6" Type="EXE">
 				<Property Name="App_copyErrors" Type="Bool">true</Property>
-				<Property Name="App_INI_aliasGUID" Type="Str">{B33006A4-5FD8-4233-BC15-4A3615A4CEC5}</Property>
-				<Property Name="App_INI_GUID" Type="Str">{47D7A172-4860-4918-9E45-10C0353F6D1C}</Property>
+				<Property Name="App_INI_aliasGUID" Type="Str">{A36A80B2-2900-4462-ABC6-39A025C50AB9}</Property>
+				<Property Name="App_INI_GUID" Type="Str">{E2AD9F2F-ADD8-4596-A6DB-AB377D2230EF}</Property>
 				<Property Name="App_serverConfig.httpPort" Type="Int">8002</Property>
 				<Property Name="App_serverType" Type="Int">0</Property>
 				<Property Name="Bld_autoIncrement" Type="Bool">true</Property>
-				<Property Name="Bld_buildCacheID" Type="Str">{91ABEACE-6322-4E82-AB0D-A4BB841366B8}</Property>
-				<Property Name="Bld_buildSpecName" Type="Str">TroisiemeEssai(SimulationDeDonnées)</Property>
+				<Property Name="Bld_buildCacheID" Type="Str">{1378E56C-4034-49F5-B43C-6137CAAE04B5}</Property>
+				<Property Name="Bld_buildSpecName" Type="Str">Test6</Property>
 				<Property Name="Bld_excludeInlineSubVIs" Type="Bool">true</Property>
 				<Property Name="Bld_excludeLibraryItems" Type="Bool">true</Property>
 				<Property Name="Bld_excludePolymorphicVIs" Type="Bool">true</Property>
-				<Property Name="Bld_localDestDir" Type="Path">../builds/NI_AB_PROJECTNAME/TroisiemeEssai(SimulationDeDonnées)</Property>
+				<Property Name="Bld_localDestDir" Type="Path">../builds/NI_AB_PROJECTNAME/Test6</Property>
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToCommon</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
-				<Property Name="Bld_previewCacheID" Type="Str">{CB7DA9FD-D1A0-4698-9984-902A4BCF7595}</Property>
+				<Property Name="Bld_previewCacheID" Type="Str">{C91CEAFF-CD6A-40B2-BB89-3B36B5D5C467}</Property>
 				<Property Name="Bld_version.build" Type="Int">1</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
-				<Property Name="Destination[0].destName" Type="Str">TroisiemeEssai(SimulationDeDonnées.exe</Property>
-				<Property Name="Destination[0].path" Type="Path">../builds/NI_AB_PROJECTNAME/TroisiemeEssai(SimulationDeDonnées)/TroisiemeEssai(SimulationDeDonnées.exe</Property>
+				<Property Name="Destination[0].destName" Type="Str">Scavenger.exe</Property>
+				<Property Name="Destination[0].path" Type="Path">../builds/NI_AB_PROJECTNAME/Test6/Scavenger.exe</Property>
 				<Property Name="Destination[0].preserveHierarchy" Type="Bool">true</Property>
 				<Property Name="Destination[0].type" Type="Str">App</Property>
 				<Property Name="Destination[1].destName" Type="Str">Support Directory</Property>
-				<Property Name="Destination[1].path" Type="Path">../builds/NI_AB_PROJECTNAME/TroisiemeEssai(SimulationDeDonnées)/data</Property>
+				<Property Name="Destination[1].path" Type="Path">../builds/NI_AB_PROJECTNAME/Test6/data</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
 				<Property Name="Exe_iconItemID" Type="Ref">/My Computer/LogoScavenger.ico</Property>
-				<Property Name="Source[0].itemID" Type="Str">{8C59FBF2-ECA8-4621-BBA3-03BD44075F5F}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{98D13818-78DC-4595-9375-20301451C437}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/My Computer/Main.vi</Property>
 				<Property Name="Source[1].sourceInclusion" Type="Str">TopLevel</Property>
 				<Property Name="Source[1].type" Type="Str">VI</Property>
 				<Property Name="SourceCount" Type="Int">2</Property>
-				<Property Name="TgtF_fileDescription" Type="Str">TroisiemeEssai(SimulationDeDonnées)</Property>
-				<Property Name="TgtF_internalName" Type="Str">TroisiemeEssai(SimulationDeDonnées)</Property>
+				<Property Name="TgtF_fileDescription" Type="Str">Test6</Property>
+				<Property Name="TgtF_internalName" Type="Str">Test6</Property>
 				<Property Name="TgtF_legalCopyright" Type="Str">Copyright © 2023 </Property>
-				<Property Name="TgtF_productName" Type="Str">TroisiemeEssai(SimulationDeDonnées)</Property>
-				<Property Name="TgtF_targetfileGUID" Type="Str">{98005706-7304-4DC2-BF9A-196060DAE0DC}</Property>
-				<Property Name="TgtF_targetfileName" Type="Str">TroisiemeEssai(SimulationDeDonnées.exe</Property>
+				<Property Name="TgtF_productName" Type="Str">Test6</Property>
+				<Property Name="TgtF_targetfileGUID" Type="Str">{BE0AAC5B-1B3E-4A12-A31B-6DB0068D381A}</Property>
+				<Property Name="TgtF_targetfileName" Type="Str">Scavenger.exe</Property>
+				<Property Name="TgtF_versionIndependent" Type="Bool">true</Property>
+			</Item>
+			<Item Name="Test7" Type="EXE">
+				<Property Name="App_copyErrors" Type="Bool">true</Property>
+				<Property Name="App_INI_aliasGUID" Type="Str">{41B03801-5C15-4DC3-9F21-5BBB48B97B20}</Property>
+				<Property Name="App_INI_GUID" Type="Str">{1440E7D9-8DCA-4D3C-B3C4-E4EFD4BDF38A}</Property>
+				<Property Name="App_serverConfig.httpPort" Type="Int">8002</Property>
+				<Property Name="App_serverType" Type="Int">0</Property>
+				<Property Name="Bld_autoIncrement" Type="Bool">true</Property>
+				<Property Name="Bld_buildCacheID" Type="Str">{5194FA06-DCFE-448F-B681-3B1B0A3605D7}</Property>
+				<Property Name="Bld_buildSpecName" Type="Str">Test7</Property>
+				<Property Name="Bld_excludeInlineSubVIs" Type="Bool">true</Property>
+				<Property Name="Bld_excludeLibraryItems" Type="Bool">true</Property>
+				<Property Name="Bld_excludePolymorphicVIs" Type="Bool">true</Property>
+				<Property Name="Bld_localDestDir" Type="Path">../builds/NI_AB_PROJECTNAME/Test7</Property>
+				<Property Name="Bld_localDestDirType" Type="Str">relativeToCommon</Property>
+				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
+				<Property Name="Bld_previewCacheID" Type="Str">{071F1685-77FC-445D-B7B9-520A28B502ED}</Property>
+				<Property Name="Bld_version.build" Type="Int">1</Property>
+				<Property Name="Bld_version.major" Type="Int">1</Property>
+				<Property Name="Destination[0].destName" Type="Str">Scavenger.exe</Property>
+				<Property Name="Destination[0].path" Type="Path">../builds/NI_AB_PROJECTNAME/Test7/Scavenger.exe</Property>
+				<Property Name="Destination[0].preserveHierarchy" Type="Bool">true</Property>
+				<Property Name="Destination[0].type" Type="Str">App</Property>
+				<Property Name="Destination[1].destName" Type="Str">Support Directory</Property>
+				<Property Name="Destination[1].path" Type="Path">../builds/NI_AB_PROJECTNAME/Test7/data</Property>
+				<Property Name="DestinationCount" Type="Int">2</Property>
+				<Property Name="Exe_iconItemID" Type="Ref">/My Computer/LogoScavenger.ico</Property>
+				<Property Name="Source[0].itemID" Type="Str">{9F0ED4BA-DAA6-423C-B76E-FA42E5532269}</Property>
+				<Property Name="Source[0].type" Type="Str">Container</Property>
+				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
+				<Property Name="Source[1].itemID" Type="Ref">/My Computer/Main.vi</Property>
+				<Property Name="Source[1].sourceInclusion" Type="Str">TopLevel</Property>
+				<Property Name="Source[1].type" Type="Str">VI</Property>
+				<Property Name="SourceCount" Type="Int">2</Property>
+				<Property Name="TgtF_fileDescription" Type="Str">Test7</Property>
+				<Property Name="TgtF_internalName" Type="Str">Test7</Property>
+				<Property Name="TgtF_legalCopyright" Type="Str">Copyright © 2023 </Property>
+				<Property Name="TgtF_productName" Type="Str">Test7</Property>
+				<Property Name="TgtF_targetfileGUID" Type="Str">{F0468986-6BA7-4C74-9F8B-8D9DD66FAC39}</Property>
+				<Property Name="TgtF_targetfileName" Type="Str">Scavenger.exe</Property>
 				<Property Name="TgtF_versionIndependent" Type="Bool">true</Property>
 			</Item>
 		</Item>
