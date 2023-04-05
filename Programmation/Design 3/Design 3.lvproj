@@ -53,6 +53,8 @@
 		<Item Name="GlobalProfileByTime.vi" Type="VI" URL="../GlobalVariable/GlobalProfileByTime.vi"/>
 		<Item Name="GlobalTimeStep.vi" Type="VI" URL="../GlobalVariable/GlobalTimeStep.vi"/>
 		<Item Name="GlobalFirstRep.vi" Type="VI" URL="../GlobalVariable/GlobalFirstRep.vi"/>
+		<Item Name="GlobalTensionByTime.vi" Type="VI" URL="../GlobalVariable/GlobalTensionByTime.vi"/>
+		<Item Name="GlobalTemperatureByTime.vi" Type="VI" URL="../GlobalVariable/GlobalTemperatureByTime.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Write to XML File(array).vi" Type="VI" URL="/&lt;vilib&gt;/Utility/xml.llb/Write to XML File(array).vi"/>
@@ -316,10 +318,6 @@
 				<Item Name="ex_CorrectErrorChain.vi" Type="VI" URL="/&lt;vilib&gt;/express/express shared/ex_CorrectErrorChain.vi"/>
 				<Item Name="NI_Gmath.lvlib" Type="Library" URL="/&lt;vilib&gt;/gmath/NI_Gmath.lvlib"/>
 				<Item Name="sub_Random U32.vi" Type="VI" URL="/&lt;vilib&gt;/numeric/sub_Random U32.vi"/>
-				<Item Name="Random Number (Range) U64.vi" Type="VI" URL="/&lt;vilib&gt;/numeric/Random Number (Range) U64.vi"/>
-				<Item Name="Random Number (Range) I64.vi" Type="VI" URL="/&lt;vilib&gt;/numeric/Random Number (Range) I64.vi"/>
-				<Item Name="Random Number (Range) DBL.vi" Type="VI" URL="/&lt;vilib&gt;/numeric/Random Number (Range) DBL.vi"/>
-				<Item Name="Random Number (Range).vi" Type="VI" URL="/&lt;vilib&gt;/numeric/Random Number (Range).vi"/>
 				<Item Name="NI_AALPro.lvlib" Type="Library" URL="/&lt;vilib&gt;/Analysis/NI_AALPro.lvlib"/>
 			</Item>
 			<Item Name="lvanlys.dll" Type="Document" URL="/&lt;resource&gt;/lvanlys.dll"/>
@@ -338,6 +336,7 @@
 			<Item Name="GlobalDefaultFolderPath.vi" Type="VI" URL="../GlobalVariable/GlobalDefaultFolderPath.vi"/>
 			<Item Name="CustomGaussianKernel.vi" Type="VI" URL="../AddedVI/CustomGaussianKernel.vi"/>
 			<Item Name="CreateProfileToSave.vi" Type="VI" URL="../AddedVI/CreateProfileToSave.vi"/>
+			<Item Name="SetAuto0.vi" Type="VI" URL="../AddedVI/SetAuto0.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="Continuous Measurement and Logging Application" Type="EXE">
