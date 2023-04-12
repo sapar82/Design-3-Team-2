@@ -1,5 +1,5 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
-<Project Type="Project" LVVersion="22308000">
+<Project Type="Project" LVVersion="18008000">
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
 	<Property Name="NI.Project.Description" Type="Str"></Property>
 	<Item Name="My Computer" Type="My Computer">
@@ -347,7 +347,6 @@
 				<Property Name="App_INI_aliasGUID" Type="Str">{F9752556-B5F3-4F2F-A3A7-B7C3E931318E}</Property>
 				<Property Name="App_INI_GUID" Type="Str">{842B0EB8-E0F3-4463-9AE0-71DFD7EE5857}</Property>
 				<Property Name="App_serverConfig.httpPort" Type="Int">8002</Property>
-				<Property Name="App_serverType" Type="Int">1</Property>
 				<Property Name="Bld_buildCacheID" Type="Str">{B71B40AD-A554-4390-B7EF-90894CE397AF}</Property>
 				<Property Name="Bld_buildSpecName" Type="Str">Continuous Measurement and Logging Application</Property>
 				<Property Name="Bld_excludeLibraryItems" Type="Bool">true</Property>
@@ -383,7 +382,6 @@
 				<Property Name="App_INI_aliasGUID" Type="Str">{A36A80B2-2900-4462-ABC6-39A025C50AB9}</Property>
 				<Property Name="App_INI_GUID" Type="Str">{E2AD9F2F-ADD8-4596-A6DB-AB377D2230EF}</Property>
 				<Property Name="App_serverConfig.httpPort" Type="Int">8002</Property>
-				<Property Name="App_serverType" Type="Int">0</Property>
 				<Property Name="Bld_autoIncrement" Type="Bool">true</Property>
 				<Property Name="Bld_buildCacheID" Type="Str">{1378E56C-4034-49F5-B43C-6137CAAE04B5}</Property>
 				<Property Name="Bld_buildSpecName" Type="Str">Test6</Property>
@@ -424,7 +422,6 @@
 				<Property Name="App_INI_aliasGUID" Type="Str">{41B03801-5C15-4DC3-9F21-5BBB48B97B20}</Property>
 				<Property Name="App_INI_GUID" Type="Str">{1440E7D9-8DCA-4D3C-B3C4-E4EFD4BDF38A}</Property>
 				<Property Name="App_serverConfig.httpPort" Type="Int">8002</Property>
-				<Property Name="App_serverType" Type="Int">0</Property>
 				<Property Name="Bld_autoIncrement" Type="Bool">true</Property>
 				<Property Name="Bld_buildCacheID" Type="Str">{5194FA06-DCFE-448F-B681-3B1B0A3605D7}</Property>
 				<Property Name="Bld_buildSpecName" Type="Str">Test7</Property>

@@ -1,9 +1,0 @@
-
-2023-04-05 08h02min05s : Début d'une acquisition
-2023-04-05 08h02min24s : Arrêt de l'acquisition
-2023-04-05 08h02min59s : Changement de la valeur de la longueur d'onde (976)
-2023-04-05 08h03min03s : Début d'une acquisition
-2023-04-05 08h03min10s : Arrêt de l'acquisition
-2023-04-05 08h06min30s : Début d'une acquisition
-2023-04-05 08h16min54s : Début d'une acquisition
-2023-04-05 08h17min03s : Arrêt de l'acquisition
