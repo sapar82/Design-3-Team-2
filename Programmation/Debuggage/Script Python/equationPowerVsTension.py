@@ -1,8 +1,31 @@
+from scipy.optimize import curve_fit
 import matplotlib.pyplot as plt
 import numpy as np
 import os
 
 dataPath = os.path.dirname(os.path.abspath(__file__)) + "\\vrai_test_escalier_17_avril.txt"
+
+def curvefit(x, y, function, P0=False):
+	x = np.array(x)
+	y = np.array(y)
+	if not P0:
+		popt, pcov = curve_fit(function, x, y)
+	else:
+		popt, pcov = curve_fit(function, x, y, p0=P0)
+	if len(x) < 1000:
+		nbPoint = 1000
+	else:
+		nbPoint = len(x)
+	newDataX = np.linspace(x[0], x[-1], nbPoint)
+	newDataY = function(newDataX, *popt)
+	newData = {"x": newDataX, "y": newDataY}
+	perr = np.sqrt(np.diag(pcov))
+	deltaValues = []
+	for i in range(len(perr)):
+		deltaValues.append(perr[i])
+	print("Optimal Parameters: ",popt)
+	print("Variance :", deltaValues)
+	return popt
 
 def importData(path, splitSymbol, deleteFirstRow=0, xValuesPos=0, yValuesPos=1, normaliseX=False, normaliseY=False):
 	fich = open(path, "r")
@@ -70,6 +93,17 @@ def datas():
 	mux4 = thermistances[48:64]
 	return (time, mux1, mux2, mux3, mux4)
 
+def VtoR(v):
+	return -1800*v/(v-5)
+
+def VtoT(v):
+	r = VtoR(v)
+	return -29.03*np.log(r) + 290.3
+
+def degree3(x,a,b,c,d):
+	return a*(x**3) + b*(x**2) + c*x + d
+
+[ 8.87865834e-05 -4.81946193e-03  2.72133516e-01  2.93516172e-02]
 
 if __name__ == "__main__":
 	# arrayAcquisition = [8,19,20,22,3,9,12,18,21,23,2,6,10,13,24,26,25,1,5,7,14,31,27,29,28,0,4,55,11,15,43,30,33,34,62,63,56,51,47,32,35,36,60,61,52,46,42,37,38,59,57,53,45,41,39,58,54,44,40]
@@ -87,11 +121,30 @@ if __name__ == "__main__":
 	indiceAberant = indicesAberant(indiceMux1, indiceMux2, indiceMux3, indiceMux4, mux1, mux2, mux3, mux4)
 	indiceDansMux4 = indiceAberantDansMux4(indiceAberant, indiceMux4)
 
-	fig, ax = plt.subplots(nrows=2, ncols=2)
-	for i, x in enumerate(mux1):
-		ax[0][0].plot(time, x)
-		ax[0][0].plot([time[750],time[750]], [4,2.5])
-		ax[0][1].plot(time, mux2[i])
-		ax[1][0].plot(time, mux3[i])
-		ax[1][1].plot(time, mux4[i])
+	reference = mux2[1]
+	data = VtoT(mux1[11])-VtoT(reference)
+	y1 = [0, 2.5,5,7.5,10]
+	x = [data[0], data[280], data[440], data[600], data[780]]
+	x =	np.array(x)
+
+	popt = curvefit(x, y1, degree3)
+
+	fig, ax = plt.subplots(nrows=1, ncols=1)
+	# ax.plot(time, data)
+	ax.plot(x, y1)
+	# ax.plot([data[0],data[780]],[0,10])
+	ax.plot(x, degree3(x, *popt))
+	ax.grid()
+	# n = 1500
+	# ax.plot(time, abs(mux1[11]-reference))
+	# ax.plot([time[n],time[n]], [0,1.75])
 	plt.show()
+	
+	data = abs(mux1[11]-reference)
+	print(data[780])
+	nan = "nan"
+
+	indice = [(0,1500),(280,1270),(440,1100),(600,960),780]
+	x = [0, 2.5,5,7.5,10]
+	y = [(mux1[11][0], mux1[11][1500]), (mux1[11][280], mux1[11][1270]), (mux1[11][440], mux1[11][1100]),(mux1[11][600], mux1[11][960]), 1.505]
+	y1 = [data[0], data[280], data[440], data[600], data[780]]
