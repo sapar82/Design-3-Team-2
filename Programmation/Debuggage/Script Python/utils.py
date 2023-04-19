@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 import os
 
-dataPath = os.path.dirname(os.path.abspath(__file__)) + "\\vrai_test_escalier_17_avril.txt"
+dataPath = os.path.dirname(os.path.abspath(__file__)) + "/vrai_test_escalier_17_avril.txt"
 
 def curvefit(x, y, function, P0=False):
 	x = np.array(x)
@@ -81,7 +81,7 @@ def indiceAberantDansMux4(indiceAberant, indiceMux4):
 			count += 1
 	return indiceDansMux4
 
-def datas():
+def datas(dataPath):
 	time = importCol(dataPath, 0)
 
 	thermistances = []
@@ -103,7 +103,6 @@ def VtoT(v):
 def degree3(x,a,b,c,d):
 	return a*(x**3) + b*(x**2) + c*x + d
 
-[ 8.87865834e-05 -4.81946193e-03  2.72133516e-01  2.93516172e-02]
 
 if __name__ == "__main__":
 	# arrayAcquisition = [8,19,20,22,3,9,12,18,21,23,2,6,10,13,24,26,25,1,5,7,14,31,27,29,28,0,4,55,11,15,43,30,33,34,62,63,56,51,47,32,35,36,60,61,52,46,42,37,38,59,57,53,45,41,39,58,54,44,40]

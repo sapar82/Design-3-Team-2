@@ -2,7 +2,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 import os
 
-dataPath = os.path.dirname(os.path.abspath(__file__)) + "\\vrai_test_escalier_17_avril.txt"
+dataPath = os.path.dirname(os.path.abspath(__file__)) + "/vrai_test_escalier_17_avril.txt"
 
 def importData(path, splitSymbol, deleteFirstRow=0, xValuesPos=0, yValuesPos=1, normaliseX=False, normaliseY=False):
 	fich = open(path, "r")
