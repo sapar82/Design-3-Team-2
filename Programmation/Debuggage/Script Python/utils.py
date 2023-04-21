@@ -128,9 +128,9 @@ def predictive_algo(x, c, d, delta, separation= False):
 	x = np.array(x)
 
 	if separation:
-	    return x[5:-5], c * derivative(x, delta[0])[5:], d * derivative(derivative(x, delta[1]), delta[2])
+	    return x[delta:-delta], c * derivative(x, delta)[delta:], d * derivative(derivative(x, delta), delta)
 	else:
-		return x[5:-5]+ c * derivative(x, delta[0])[5:]+ d * derivative(derivative(x, delta[1]), delta[2])
+		return x[delta:-delta]+ c * derivative(x, delta)[delta:]+ d * derivative(derivative(x, delta), delta)
 
 def load_data(datapath):
 	"""
