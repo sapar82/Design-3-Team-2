@@ -105,6 +105,9 @@ def VtoT(v):
 def degree3(x,a,b,c,d):
 	return a*(x**3) + b*(x**2) + c*x + d
 
+def degree2(x,a,b,c):
+	return a*(x**2) + b*x + c
+
 def derivative(x, delta = 5):
     """ 
     Return dx/dy
