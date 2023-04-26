@@ -1,0 +1,37 @@
+Acquisition 26-04-23
+
+Acquisition 1:
+976 nm
+1 minutes
+0, 2.5, 5, 7.5, 10, 0
+acquisition-26-04-test1
+
+Acquisition 2:
+793 nm
+1 minutes
+0, 2.5, 5, 7.5, 10, 0
+acquisition-26-04-test2
+
+Acquisition 3:
+793 nm
+2mm haut puis centré 10 watt direct
+
+
+Acquisition 4:
+793 nm
+centre 10w, 5w, 7.5, 10w
+2mm haute, 10 W, 7.5, 5
+
+Acquisition 5:
+793 nm
+2mm gauche
+30 sec
+2.5, 5, 7.5, 10, 0
+
+Acquisition 6:
+793 nm
+2mm bas
+30 sec
+2.5, 5, 7.5, 10, 0
+
+Note: Mettre puissance min = 0...
